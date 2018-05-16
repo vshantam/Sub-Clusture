@@ -94,6 +94,25 @@ This algorithm works using <b><i>levenshtein distance</i></b> , which is a  meas
 ![alt_tag](http://richardminerich.com/wp-content/uploads/2012/09/Levenshtein.png)
 
 
+# Algorithm Implementation
+
+i will explain the implementation in scikit-learn using a demo example:
+
+demo code:
+
+		from sklearn.cluster import AffinityPropagation
+		centers = [[1, 1], [-1, -1], [1, -1]]
+		af = AffinityPropagation(preference=-50).fit(centers)
+
+This creates the classifier now the only thing you have to do is to predict
+
+		af.predict([[1,1]])
+
+Will you the output as 
+
+		array([0])
+
+While predicting Make sure that array in the parameter must be in the form of 2D Array
 
 
 
