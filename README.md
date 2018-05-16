@@ -79,5 +79,16 @@ step 5:
 	At an average this approch took around 7 minutes to process all the file.
 
 
+## About the Algorithm
+
+### Affinity Propogation
+
+In statistics and data mining, affinity propagation (AP) is a clustering algorithm based on the concept of "message passing" between data points.[1] Unlike clustering algorithms such as k-means or k-medoids, affinity propagation does not require the number of clusters to be determined or estimated before running the algorithm. Similar to k-medoids, affinity propagation finds "exemplars", members of the input set that are representative of clusters.
+
+like:
+
+![alt_tag](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwil_92v8YrbAhWOfSsKHbbuACsQjRx6BAgBEAU&url=http%3A%2F%2Fslideplayer.com%2Fslide%2F5053403%2F&psig=AOvVaw22RjWuoAod4Vm2BModVEix&ust=1526582553558741)
+
+
 
 
