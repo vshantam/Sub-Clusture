@@ -89,6 +89,12 @@ like:
 
 ![alt_tag](http://images.slideplayer.com/16/5053403/slides/slide_10.jpg)
 
+This algorithm works using <b><i>levenshtein distance</i></b> , which is a  measure of the similarity between two strings, which we will refer to as the source string (s) and the target string (t). The distance is the number of deletions, insertions, or substitutions required to transform s into t.
+
+![alt_tag](http://richardminerich.com/wp-content/uploads/2012/09/Levenshtein.png)
+
+
+
 
 
 
