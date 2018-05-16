@@ -87,7 +87,8 @@ In statistics and data mining, affinity propagation (AP) is a clustering algorit
 
 like:
 
-![alt_tag](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwil_92v8YrbAhWOfSsKHbbuACsQjRx6BAgBEAU&url=http%3A%2F%2Fslideplayer.com%2Fslide%2F5053403%2F&psig=AOvVaw22RjWuoAod4Vm2BModVEix&ust=1526582553558741)
+![alt_tag](http://images.slideplayer.com/16/5053403/slides/slide_10.jpg)
+
 
 
 
