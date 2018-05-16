@@ -47,7 +47,7 @@ step 3 :
 	I used two loops through each set of synonyms which mapped to each word and make intersection of the set.
 setp 3:
 	
-	If the intersection has atleast one element then they are some how related to each other , so i conidesred those elements in one 			cluster or else in different cluster.
+	If the intersection has atleast one element then they are some how related to each other , so i conidesred those elements in one 		cluster or else in different cluster.
 step 4:
 
 	I repeated the process until no unique word is left.
@@ -108,7 +108,7 @@ This creates the classifier now the only thing you have to do is to predict
 
 		af.predict([[1,1]])
 
-Will you the output as 
+Will give you the output as 
 
 		array([0])
 
