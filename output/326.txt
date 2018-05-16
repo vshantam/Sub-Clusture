@@ -1,0 +1,14 @@
+actual, change, chart, data, factor, forty, month, number, range, shown, small, source, survey, total
+also, area, bank, bls, box, ecb, euro, gpp, mean, net, non, refer, see, sum, term, terms, two
+difference, particular, percentage, respective
+available, basically, category, identical, inancial, possible, somewhat, standard, statistic, tolerance
+calculated, decreased, displayed, increase, increased, tightened, unchanged
+consequently, considerably, deteriorated, quantitative
+according, decreasing, including, occasional, reporting
+declined, defined, provided, related, remained, weighted
+average, demand, giving, overall, period, report, result, section, weight
+based, ease, fifty, five, high, index, level, note, one, risk, size, table, time, use, used, using, value
+credit_standard
+percentage_of_the_number
+consumer_credit
+condition, continued, contribute, contributed

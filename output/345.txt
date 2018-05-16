@@ -1,0 +1,13 @@
+access, area, average, barrel, basin, crude, energy, first, future, market, natural, safety, storage
+construction, expenditure, exploration, extraction, hydrocarbon, operational
+operating, operation, operator
+activity, capacity, chemical, commodity, facility, industry, oil_price, refinery
+demand, drilled, fluid, higher, liquid, million, origin, pipeline, supply, volume
+transportation
+downstream, interest, offshore, onshore, petroleum, petronas, resource, terminal, upstream
+approximately
+field, fuel, high, line, mile, oil, one, price, rig, shale, spill, well
+crude_oil, drilling, including, processing, produced, producer, producing, production
+compared, completed, expected, increased, located
+agreement, development, environment, natural_gas
+also, bbl, bcf, cost, due, eni, ffa, gas, lng, long, lower, mcm, near, north, plant, play, term, two, unit, year

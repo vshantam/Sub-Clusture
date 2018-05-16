@@ -1,0 +1,16 @@
+complaint, connection, directly, effective, following, including, marketing, offering, promotion, retention, telephone
+communication, relationship, satisfaction
+access, billed, business, charge, credit, direct, minute, number, offered, second
+program, provide, provided, provider, provides, providing, services
+service_provider
+customer_service
+customer_relationship, customer_satisfaction
+based, due, fee, free, level, line, meet, offer, order, per, rate, term, time, usage, voice
+customer, customers
+account, billing, facility, include, monthly, pricing, product, without
+customer_base, customer_need, new_customer
+additional, associated, available, residential
+existing_customer
+also, churn, hour, long, month, non, one, option, phone, plan, total, upon
+bill, call, crm, day, end, isdn, pay, set, six, sms, two, use
+average, extended, purchase, receive, related, release, revenue, service

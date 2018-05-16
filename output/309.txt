@@ -1,0 +1,17 @@
+account, banking, funding, holding, lending, taking
+central_bank
+asset, first, see, set, sheet, short, show, small, three
+liability, liquidity, stability
+capital, central, credit, crisis, deposit, foreign, limit, liquid, period, policy, private, provide
+commercial_bank
+exposure, increase, increased, interest
+balance, bank, bank_, banker, banks, branch
+among, could, due, end, fund, held, hold, lend, loan, loss, need, non, one, risk, term, two, well
+borrowing, financial, important
+banking_sector, banking_system
+commercial, interbank, other_bank
+balance_sheet
+institution, regulation, regulatory
+also, based, face, higher, large, market, money, order, paper, rate, ratio, since, system, take, time, total
+figure, however, reduce, reserve, result, sector, source
+activity, addition, depositor, domestic, operation, security

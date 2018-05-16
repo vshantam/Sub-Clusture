@@ -1,0 +1,12 @@
+injury, insurance, insure, insured, insurer, insuring, issued, uninsured
+insurance_company, insurance_coverage, insurance_policy
+care, cost, cover, doe, fire, force, form, life, loss, named, non, one, paid, rider, type
+act, agent, amount, apply, auto, basic, claim, death, excess, first, group, health, law, limit, ltc, part, pay, peril, risk, self, single, state, surety, term
+benefit, coverage, covered, covering, expense, general, personal, required, vehicle
+certificate, deductible, endorsement, individual, occurrence, underwriter
+business, purchase, purchased
+cancellation, catastrophic, compensation, professional
+accident, excluded, includes, including
+arising, policy, premium, property, protect, provide, provides
+carrier, caused, damage, damaged, limited, payment, standard
+additional, commercial, condition, exclusion, homeowner, indemnity, liability, protection, provision, resulting

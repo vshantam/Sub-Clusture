@@ -1,0 +1,15 @@
+also, asset, based, basis, cash, cost, gain, loss, paid, plant, sheet, using, value
+activity, capitalized, classified, liability, separately
+amortization, depreciation, information, presentation, revaluation, transaction
+component, difference, equipment, interest, measurement, statement
+entity, future, method, period, profit, related, result, useful
+balance, capital, change, estimate, example, expense, however, payable, payment, provide, purpose, service, standard, tangible
+include, included, income, incurred
+expenditure, financial, intangible, principle
+financial_statement
+balance_sheet
+account, accrual, accrued, amount, current
+accounting, including, inventory, investing, operating, reporting, valuation
+classification
+acquired, presented, provided, received, recognized, recorded, reported, required, revenue
+doe, flow, item, life, long, made, net, non, note, one, sold, term, use, used, xyz, year

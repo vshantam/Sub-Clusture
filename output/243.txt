@@ -1,0 +1,17 @@
+american, jonathan, journal, national, william, working
+academic, economic, economics, technology
+evidence, finance, science, seminar, society, stephen
+international
+chicago, edward, harvard, michael, richard, scholar, school
+foundation, presentation, publication
+associate, cambridge, challenge, dartmouth, financial, institute, washington
+alan, chair, chen, edu, issue, jean, john, kim, lee, paul, phd, room, study, thomas, usa, wang, york, zhang
+andrew, annual, article, daniel, fellow, george, matthew, review
+conference, discussant, management, university
+author, boston, editor, joseph, london, robert, session
+business, published, visiting, workshop
+david, james, march, martin, paper, paris, policy, prof, smith
+present, presented, presenter, president, professor, research, researcher
+lecturer, network, new_york, oxford
+center, centre, peter, winter
+christopher

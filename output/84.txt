@@ -1,0 +1,16 @@
+data, human, labor, level, lower, men, older, per, total, trend, well, woman, year
+employment, unemployed, unemployment
+also, among, group, hour, job, low, non, old, point, show, top, two, work
+age, aged, change, high, life, male, one, rate, since, table, time, wage
+education, occupation, population
+average, increase, increased
+across, figure, gender, higher, however, income, labour, likely, number, pattern, sector, skill, skilled, social, survey, worker, working
+analysis, earnings, economic, hispanic, household, workforce
+demographic
+difference, percentage
+adult, cohort, decline, effect, female, health, impact, measure, people, person, result
+compared, employed, relative, reported
+associated, educated, estimate, estimated
+individual, inequality
+ability, mobility, mortality
+distribution, occupational, productivity

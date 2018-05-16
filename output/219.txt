@@ -1,0 +1,12 @@
+broker, maker, market, offer, order, priced, trade, traded, trader
+limit_order, market_maker, marketplace, participant
+exchange, execute, executed, reported
+access, center, change, dealer, listed, minute, nasdaq, number, report, result, stated, strategy, system, volume
+close, fee, fined, limit, made, nyse, one, penny, place, pre, price, quote, rule, sell, share, size, time
+commission, immediately, information, transaction
+closing, denying, finding, making, provide, quoting, routing, trading
+market_participant
+activity, admitting, available, display, liquidity, security, without
+automated, consented, displayed, instrument, protected, suspended
+electronic, exception, executing, execution, investor, protection, quotation
+also, ats, best, bid, book, buy, cross, data, day, ecn, fix, nms, non, per, post, sros, stock, tick, two

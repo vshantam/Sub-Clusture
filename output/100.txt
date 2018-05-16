@@ -1,0 +1,18 @@
+account, amount, annual, current, payment, thousand
+activity, authority, financial, liability, obligation, primarily, university
+asset, based, board, cash, earned, ended, issued, made, paid, rate, used
+approximately, expenditure, respectively
+accrued, presented, received, recorded, related, reported, required, revenue
+continued, determined, established, recognized, restricted
+contribution
+agreement, equipment, government, interest, investment, management, statement
+beginning, following, operating, operation
+also, bond, change, cost, fund, long, non, plan, total, using
+fiscal_year
+financial_statement
+accordance, available, receivable
+balance, category, expense, follows, payable, program, purpose, series, service
+provide, provided, provides
+debt, due, fee, held, lease, net, note, term, year
+include, included, includes, including, increase, incurred
+benefit, capital, certain, fiscal, general, generally

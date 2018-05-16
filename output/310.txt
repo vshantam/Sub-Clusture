@@ -1,0 +1,14 @@
+amount, payment, rental, repair, report, subject, tenant
+application, construction
+mortgage, mortgagee, mortgagor
+also, cost, first, form, fund, lien, month, owned, owner, prior, rent, term, unit, upon, work
+builder, include, included, income, insured, interest
+based, date, land, lease, made, note, paid, pay, sale, site, space, tax, title, year
+condition, financing, including, inspection, occupancy, ownership, principal
+building, closing, eligible, existing, housing, operating
+agreement, completed, considered, developer, landlord
+require, required, review, section
+escrow, exceed, expense, however, leased, lender, located, notice, office
+day, deed, doe, due, fee, fha, hud, meet, one, see, use, used
+development, improvement, requirement
+appraiser, approval, approved, property, provide, provided, purchase

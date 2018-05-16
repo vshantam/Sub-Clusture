@@ -1,0 +1,14 @@
+committee, conference, experience, fraternity
+general, member, members, number
+representative, responsibility
+also, body, bylaw, call, chair, date, day, fall, form, four, group, join, list, one, phi, staff, two, vice
+continuing, following, governing, including
+participant, participate
+membership, new_member, recommended
+active, annual, chapter, discus, educate, elected, house, include, issue, minute, monitor, office, seminar
+assembly, attend, attended, chartered, continued, involved, treasurer
+association, coordinator, discussion, education, function, individual, invitation
+participating, participation
+communication, organization, presentation, professional
+activity, appoint, assist, current, hotline, meeting, national, outline, personal, policy, present, president, program, provide, report, service, session, sorority, working
+event, every, held, keep, least, name, review, serve, three, week, year

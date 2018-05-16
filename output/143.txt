@@ -1,0 +1,17 @@
+citibank, internet, merchant, network, purchase, terminal
+card_issuer, cardholder, cardmember
+dispute, issued, issuer, number, system
+contactless, credit_card, electronic, interchange
+financial_institution
+acquirer, business, consumer, customer, provider, transfer
+processed, processing, processor
+benefit, payment, prepaid, present, process, program, transit
+chargeback, chargebacks
+balance, debit, device, limit, mobile, online, reward, service
+accept, access, account, credit
+based, fare, fee, made, make, offer, one, open, point, rtgs, seb, store, third, time, token, travel, type, use, used, using, value
+charge, charged, check, cheque, volume, whether
+associated, mastercard
+acquiring, financial, including
+authorization, tokenization, transaction
+ach, also, apc, atm, bank, card, cash, chip, emv, fraud, fund, pay, pin, pos, via, visa

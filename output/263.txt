@@ -1,0 +1,17 @@
+also, apl, ccm, cim, coal, cti, doe, goal, high, log, low, osp, post, slow, ssg, using
+average, errant, generate, isolate, measure, measured, related, release, result, stressed, thermal
+added, alert, based, capex, change, could, curve, data, level, space, status, take, target, time, topic, total, value
+calculate, displayed, indicates, mandatory
+other_metric
+bhp_billiton, documentation, substitution
+atlantic, category, following, identify, mackenzie, running, specific
+action, adding, commit, fowler, likely, metric, nuance, number, signed, source, whether
+apportioned
+performance_metric
+measurement, performance
+key, met, see, set, use, used
+analysis, analyze, example, include, manager, quality
+breakeven, normalized, reference, represents, statement, threshold
+opportunistic
+consider, obtained, process, provides, revision, universe
+energy_economics

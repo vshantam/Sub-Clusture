@@ -1,0 +1,17 @@
+account, among, amount, month, payment
+administrator, description, distribution
+adversely, aggregate, allocated, percentage, prepayment, purchased, shortfall
+applied, described, financed, provided, received, reduced, related, required, servicer
+cut, dbrs, due, fee, fund, one, rcs, see, set, sub, time
+based, case, charge, class, date, kappa, made, make, master, mean, note, paid, part, pay, share
+transaction_document
+applicable, available, beneficial, certificate, receivables
+directing, discounted, following, including, outstanding, principal
+payment_date
+collection, connection, portfolio, respective
+addition, certain, initial, material, portion
+revolving_period
+could, equal, first, forth, giving, result, right, risk, series, trust, trustee
+expense, however, interest, manager, monthly, transfer
+obligor, obligors, subclass
+affect, effect, event, except, extent, respect, subject

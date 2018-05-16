@@ -1,0 +1,19 @@
+feature, figure, single
+display, example
+first, light, point, right, script
+box, drop, row, tip, tool, top, turn, two
+find, line, save, see, side, size, sure, time, using
+place, range, small, value
+bottom, button, column, control, window
+contains, position, possible
+blue, close, make, move, note, one, type, use
+also, color, left, list, plot, pull, show
+cell, end, help, keep, need, next, open, red, set, step, used
+adjust, appear, manual, number
+reference
+check, create, graph, start, track
+add, back, bar, data, run, want, way
+enter, every, excel, green, order, press, three
+allows, change, choose, double, remove
+calculator
+needle, second, select, setting, shown

@@ -1,0 +1,18 @@
+approximately, philadelphia
+borough, citizen, detroit, library, report, service, station, transit
+budget, current, hudson, hurley, number, public, runner, street, urban
+firefighter, focus_group
+accra, actual, annual, capital, chicago, clean, dallas, local, school, total
+baltimore, building, business, including, staffing
+ade, bill, city, ere, fee, fire, five, hich, ill, ith, lima, nine, one, sewer, three, time
+also, day, fair, four, kes, mayor, metro, osa, ost, park, pay, plan, salary, tax, town, two, work, yard, year
+city_council
+street_vendor
+manhattan, municipal, recreation
+department, improvement, recommended, replacement
+local_government
+recommendation
+council, economic, lakewood, ordinance, position, township
+allowed, avenue, census, change, league, police, spent
+police_department
+community, currently, longevity, prosecutor

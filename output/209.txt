@@ -1,0 +1,17 @@
+factor, overall, pension, period, result, return, sector, wealth
+opportunity, performance, rebalancing
+manage, managed, manager, managing, market
+bond, fund, hold, long, low, non, one
+level, lower, offer, real, short, stock, target, term, three, time, total, two, well, year
+approach, benchmark, compared, expected, exposure
+invested, investing, investment, investor, objective
+diversification
+across, also, asset, based, cash, class, high, large, risk, use, value
+constraint, management, portfolio, specific, strategic, strategy
+duration, position, relative, selection, valuation
+asset_class
+achieve, active, example, however, include, minimum, optimal, passive
+equity, global, holding, limit, policy, provide
+fixed, higher, income, index, invest
+analysis, liability, liquidity, security, volatility
+allocation, alternative, attribution, diversified, traditional

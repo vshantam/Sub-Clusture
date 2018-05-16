@@ -1,0 +1,16 @@
+calculation, disruption, production
+cost, impact, people, process, product, return, source, stock, supply, total, volume
+supply_chain
+manufacturing
+activity, decision, defective, identify, inventory, operation
+chain, day, delay, demand, good, lead, lean, level, mro, part, period, plan, raw, unit
+also, based, cycle, excess, item, labor, make, manage, needed, one, order, risk, rule, safety, sale, system, time, used, using, value
+distribution, optimization, transportation
+deliver, delivery, receive
+accuracy, analysis, business, customer, forecast, increase, material, network, resource, schedule, shortage
+fulfillment, obsolescence, performance, replenishment, requirement
+location, logistic, logistics
+constraint, forecasting, management, scheduling
+handling, managing, ordering, planning, practice, sourcing, tracking, training
+supply_chain_risk
+capacity, capital, policy, quality, quantity, supplier

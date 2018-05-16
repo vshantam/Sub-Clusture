@@ -1,0 +1,13 @@
+include, included, income
+accordance, available, collateral, estimate, fair_value, financial, generally, liability, observable, valuation
+amount, carried, change, credit, entity, equity, input, interest, level, likely, maturity, method, nomura, present, price, reflect, related, security, using, whether
+expected, impaired, measured, realized, received, recorded, reported, require, required, requires
+agreement, impairment, instrument, investment, management, measurement, transaction
+determine, determined, determining, respectively, unrealized
+also, asc, asu, cash, fair, fasb, flow, gaap, gain, loss
+amortized, classified, considered, continued, purchased, recognized
+fair_value_hierarchy
+fair_value_measurement
+doe, due, held, loan, net, note, risk, sell, sold, upon, used
+accounting, beginning, derivative, following, goodwill, including, reporting
+asset, based, issued, march, market, master, measure, value, valued

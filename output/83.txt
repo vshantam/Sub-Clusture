@@ -1,0 +1,14 @@
+access, act, also, among, based, bolsa, cboe, daily, data, efp, house, ice, index, london, metal, month, move, nse, one, open, order, otc, per, place, price, real, set, spot, stock, trade, use, user, well
+addition, function, option, platform, position
+clearing, contract, electronic, exchange, including, listing, trading
+bovespa, brokerage, fbovespa, interest, protester
+market_participant
+regulated, regulation, regulator, regulatory
+future_market
+derivative, speculation, speculative, speculator
+information, manipulation, specification, transaction
+future_contract
+activity, commodity, delivery, discovery, efficient, financial, liquidity, physical, quantity, security
+established, marketplace, participant, spot_market, surveillance
+broker, forward, future, global, hedger, however, listed, number, offer, system, traded, trader, volume
+equity, market, operate, permit, product, provide, receipt

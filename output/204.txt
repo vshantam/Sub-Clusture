@@ -1,0 +1,19 @@
+paragraph, supersede, superseded
+provision, recognition, transaction, transition
+apply, care, change, real, sale, shall, table, update
+accordance, allowance, exchange, following, guidance
+action, adding, amount, content, entity, heading, method, portion, section
+impaired, provided, provides
+subparagraph
+amendment, interest, standard, statement, subtopic
+reflect, reflects, result, subject
+accounting, considered, consistent, identifies
+determining, receivable, receivables
+described, estimated, expected, received, recognized, reference
+following_item
+consideration
+loss_contingency
+add, cost, date, doe, fas, fee, link, loss, made, meet, moved, note, scope, see, shown, sop, tdr, time, topic, used
+accounted, include, included, including, incurred
+accrual, address, estimate, example, follows, overall, probable
+added, amend, amended, based, board, charged, earned, number, period, related

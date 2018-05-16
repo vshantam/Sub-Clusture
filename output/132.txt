@@ -1,0 +1,15 @@
+configuration
+device, feature, required, resource, server, service, setting, storage, version
+directory, protocol, provides, virtual
+also, disk, host, list, log, port, run, sent, set, show, start, top
+application, connection, information, installation
+network, support, supported
+conference, configure, configured, configuring, controller
+add, based, call, data, file, guide, image, mode, name, node, note, one, remote, see, sip, system, table, time, type, update, use, used, user, value, web
+access, address, change, command, connect, domain, machine, message, running, traffic
+cisco, client, event, group, linux, using, window
+deployment, following, management
+administrator
+default, enable, enabled, example, number
+install, installed, instance, interface
+available, database, firewall, hardware, parameter, password, software

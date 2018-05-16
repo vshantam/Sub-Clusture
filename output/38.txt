@@ -1,0 +1,19 @@
+address, audit, audited, auditing, auditor
+engagement, fraudulent, judgment, management, misstatement, statement
+financial_statement
+information, materiality, professional, significant, transaction
+evaluate, evidence, example, obtained, response, standard, whether
+error, fraud, matter, perform, report, result, work
+accounting, conclusion, evaluating, financial, following, including, performing, regarding, reporting
+internal_control
+prepared, related, require, required, requires, review
+independence, understanding
+performed, procedure, process, provide, provides
+responsibility
+accordance, accountant, appropriate, assurance
+also, based, could, doe, isa, issue, issued, made, make, might, need, one, risk, sas, use, used
+audit_committee
+concern, consider, continue, control, document, however, obtain, opinion
+discussed, include, included
+deficiency, determine, effective, identified, identify, necessary, objective
+detect, entity, general, internal, material, relevant

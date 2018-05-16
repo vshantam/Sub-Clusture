@@ -1,0 +1,16 @@
+cdc, could, doe, make, need, none, note, one, per, take, time, use, used, year
+more_information, previous_edition
+questionnaire
+answering, following, recommend, regarding, statement
+following_question, following_statement
+carefully, correctly, currently, frequently, incorrect
+question, receive, section
+decrease, describe, increase, response, therefore
+confirm, consider, outside, previous, provide, provided, required, revised
+agree, answer, asked, choose, equal, given, panel, please, read, refer, refers, result, share, state
+explanation, information
+correct_answer
+asking, bound, change, check, discus, high, shift, since, status, think, using
+answered, attempt, clarify, demanded, example, explain, supplied, suppose, whether
+comment, correct, current
+along, also, apply, ask, asks, dfs, fall, know, last, list, mean, part, risk, two, want

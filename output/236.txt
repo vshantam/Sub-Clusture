@@ -1,0 +1,15 @@
+arrangement, opportunism, outsourcing, relationship, third_party
+also, based, best, case, clause, cost, could, doe, even, fixed, form, joint, long, make, need, one, paid, party, pay, post, rule, take, term, two, type, use, value
+mechanism, potential, principal, provision, specific, specify, structure, therefore
+condition, negotiation, obligation, situation, termination, transaction
+action, agreed, benefit, dispute, either, exist, however, nature, often, right, third, whether, without
+such_contract, term_contract
+clearly, common, effort, example, formal, legal, payment, penalty, perform
+agreement, alternative, commitment, generally, governance, performance
+negotiate, negotiated, negotiating
+contract, contracted, contracting, contractual
+term_of_the_contract
+price, profit, promise, provide, provides, service
+complete, discussed, incentive, involve, involves
+type_of_contract
+compensation, consideration, contract_term, interpretation

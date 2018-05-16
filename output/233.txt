@@ -1,0 +1,15 @@
+different, instrument, investment, respondent
+investment_firm
+considered, considers
+financial_instrument
+derivative, execution, information, obligation, publication, systematic, transaction
+trading_venue, transparency
+aif, aifm, aifmd, aifms, aifs, aii, also, list, mifid, mifir, view
+available, directive_, feedback, financial, technical
+product, provide, provided, trading
+advice, article, average, charge, example, include, managed, market, shall, strategy, table, trade, traded, value
+commodity, following, including, providing, reporting, underlying
+bucket, client, could, equity, esmas, issuer, level, liquid, listed, noted, order, period, record, report, type, ucits, venue
+admitted, criterion, option, position
+executed, expressed, proposal, received, suggested, therefore, threshold
+esma, hft, mar, mtf, nca, ncas, non, note, nta, one, per, post, pre, rts, sme

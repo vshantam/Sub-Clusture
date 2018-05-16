@@ -1,0 +1,18 @@
+household, wholesale, wholesaler
+carry, change, charge, charged, choice, margin, market, three
+retail_customer
+also, area, group, imm, key, make, need, nodal, non, oar, obr, offer, ofgem, one, part, rep, set
+additional, application, competition, competitive, condition, consultation
+based, ensure, final, include, issue, number, price, small, time
+agreement, currently, relevant
+retail_market
+exit, level, limited, required, result, retail, retailer, review, service
+explanatory, regulatory
+concluded, consider, consumer, customer, customers, however
+market_operator
+wholesale_market, wholesale_price
+access, across, allowed, business, current, interim, process, supply
+arrangement, requirement, residential
+activity, britain, charging, existing, exiting, pricing, section
+proposed, provide, provided, provider, provision
+approach, available, following, forward, including, scotland, shopping, standard, support

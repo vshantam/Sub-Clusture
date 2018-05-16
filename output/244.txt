@@ -1,0 +1,15 @@
+created, interest, trust, trustee, trustor
+holder, owned, owner, owners, power
+custodial, custodian, foundation, guardian
+account, acting, death, deposit, entity, escrow, estate, grantor, person, purpose, satisfy, settlor
+administrator, corporation, distribution, relationship, satisfaction
+fiduciary, grandchild, maintained, ownership, principal, remaining
+beneficial, beneficiary, individual
+asset, basic, deed, doe, fact, heir, held, idis, lsb, name, named, one, party, pas, pass, rule, since, single, sole, state, time, two, type
+also, amount, fully, fund, hold, john, joint, lrb, non, owns, right, rrb, upon
+proprietorship
+sole_proprietorship
+trust_relationship
+benefit, creating, deceased, directed, example, lifetime, provide, provided, receive, record
+available, business, deposited, designate, insurance, satisfied, separate
+established, requirement, trust_asset, trust_fund

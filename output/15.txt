@@ -1,0 +1,15 @@
+attack, category, company, damage, employee, example, failure, malware, spyware
+data_breach
+business, continue, criminal, identify, million, phishing, quickly, stealing, targeting, unknown
+investigation, organization, sophisticated
+also, day, email, even, fbi, help, likely, loss, nearly, news, pii, scam, sent, spear, steal, stop, third, well
+fraudsters, fraudulent, ransomware
+ciso, cyber, data, ever, fake, often, one, risk, take, time, type
+compromise, compromised, cybercrime
+breached, computer, infected, internal, mitigate, observed, reported
+cyber_incident, cybercriminals, cybersecurity
+account, address, breach, defense, detect, incident, prevent, report
+executive, intrusion, legitimate, reputation
+could, dont, known, lost, might, month, social, victim, virus
+carrier, cause, caused, fraud, hacked, hacker, number, target
+consequence, experienced, intelligence

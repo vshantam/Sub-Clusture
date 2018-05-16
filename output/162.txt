@@ -1,0 +1,16 @@
+operation, regulation, starting
+cultivation, cultivator
+bits, busy, byte, data, line, mode, note, one, size, time, type, write, wrt
+register, required, reserved, specified
+error, first, front, pound, start, track
+buffer, counter, current, number, nursery, offset
+established, summarizes
+edm, head, mixed, next, prev, read, reset, see, seek, set, signed, used, vert, view
+cannabis, command, control, default, illegal, indoor, optional, outdoor, section, volatile
+bit, ccd, mid, pid, pin, spi, tid, wim
+added, change, frame, range, table, value
+active, defined, device, equal, medical, reading, sector, written
+interrupt, parameter, threshold
+address, assumed, assumes, includes, process
+flag, hold, legal, light, log, lsb, non, sgn, tap
+respectively

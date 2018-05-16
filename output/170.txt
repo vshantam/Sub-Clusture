@@ -1,0 +1,18 @@
+exported, exporter, exporting, imported, importer
+credit, direct, foreign, however, medium, nation, payment, product, service, trading, working
+international, internationally
+letter_of_credit
+advance, distance, finance, include
+commercial, commodity, processing
+destination, developing, transaction, united_state
+international_trade
+also, bank, bill, claim, exim, flow, help, ita, lcs, pay, risk, term, trade, trans, used, value, well
+business, commerce, domestic, overseas, presented, provides
+agreement, commitment, document, equipment, exim_bank, shipment
+abroad, border, buyer, export, good, import, known, port, short, world
+available, financing, guarantee, industry, insurance, intensive
+case, cover, made, mode, non, often, one, open, pre, sale, since, smes
+developing_country
+competitiveness
+country, custom, factor, letter, located, related
+facility, generally, normally, usually

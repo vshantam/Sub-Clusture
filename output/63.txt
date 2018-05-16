@@ -1,0 +1,13 @@
+hydrocarbon, occupational
+acid, air, box, det, dust, har, hour, ion, iso, limit, listed, long, med, ppm, risk, shift, short, skin, som, term, twa, used, vps
+assessment, reference, substance
+acetate, average, dioxide, exposure, measured, minute, mixture
+chloroform, identified, including, industrial, monitoring, norge_bank, regulation
+cadmium, chloride, chromium, compound, hydrogen, potassium, selenium
+applied, cyanide, example, exposed, sampling
+amine, based, cause, fibre, fume, name, one, oxide, see, table, time, value
+butyl, effect, ether, ethyl, except, health, level, metal, method, methyl, period, total
+benzene, comment, soluble, toluene
+carbon, group, nickel, norge, number, process, worker
+asbestos, directive, fraction, notation, organic, particle, personal
+available, calculated, respirable, workplace

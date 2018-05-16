@@ -1,0 +1,16 @@
+collected, collecting, collection, conversion
+available, percentage, receivable, receivables
+delinquent, department, hm_revenue
+uncollectible
+account, agency, amount, appendix, attempt, bad_debt, overdue, paragon, payment, penalty, process, warrant
+bad, based, case, claim, clm, date, day, dbi, debt, due, fine, ivr, made, non, one, owed, past, pay, placed, time, type
+administrative
+criterion, determine, effective, remitting
+collection_activity, collection_agency, collection_process
+active, claimed, collect, entity, however, letter, locate, monitor, refer, service, settled, written
+recovered, recovery, referral, referred, remitted, response
+determining, intermediary, outstanding
+also, bill, cost, effort, event, first, fully, future, group, offset, result, sent, total, unpaid, using, write
+associated, considered, established, statistic
+cost_of_collection
+activity, billing, locating, totaling, tracing

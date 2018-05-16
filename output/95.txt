@@ -1,0 +1,14 @@
+euro, flow, imf, long, need, one, open, peg, peso, ppp, spot, term, two, use, used, yen
+domestic_currency, foreign_currency, foreign_exchange
+depreciation, devaluation, transaction
+converted, currency, current, domestic, foreign, however, monetary, movement, position
+central, expressed, external, interest, nominal, official, sterling, therefore
+abroad, carry, cross, dollar, fixed, forex, forward, gold, hold, local, money, month, order, parity, pound, world
+currency_risk, exchange_rate, local_currency
+also, case, japan, march, market, pair, rand, rate, since, take, three, time, trade, value
+account, amount, country, economy, floating, global
+foreign_exchange_risk
+exchange_rate_risk
+balance, change, example, exchange, exposure, japanese, parallel, regime, relative
+central_bank, differential, international, intervention, united_state
+denominated, determined, developing, nonresident, purchasing, us_dollar

@@ -1,0 +1,16 @@
+acquisition, calculation, information, presentation, regulation, transaction, translation
+consolidated, consolidation, multinational, reconciliation
+based, direct, effect, end, fdi, item, net, non, owned, parent, sheet, tic, used, year
+business, condensed, currency, earnings, exchange, exposure, quarterly
+investment, management, statement
+affiliate, aggregate, calculated, comparable, financial, liability, subsidiary, translated
+prepared, presented, related, reported, required
+accounting, domestic, location, operating, operation, position, reporting
+annual, include, included, income, interim, inward, listed, located, measure, standard
+abroad, also, border, change, cross, flow, form, forma, gaap, half, host, local, pro, purpose, stock, whose
+audited, country, entity, equity, foreign, period, quarter, report, result, section
+foreign_country, parent_company
+intercompany, listed_entity, united_state
+financial_statement
+annual_financial_statement
+foreign_government, foreign_subsidiary

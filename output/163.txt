@@ -1,0 +1,15 @@
+adb, adbs, aid, also, apply, dmc, fund, gift, made, uti, value
+annual, donated, endowed, ensure, funders, funding, income, intended
+benefit, giving, grant, prize, profit, provide, public, purpose, report, review, special, support, ticket
+charitable, commission, contribution, foundation, monitoring
+donation, operating, operation, reporting
+established, incorporated, unrestricted
+assistance, designated, reasonable, restricted, safeguard, volunteer
+financial, fundraiser, fundraising, qualified
+carry, cost, donor, form, good, know, non, npos, pool, short, sorp, term, work
+activity, program, properly, provided, resource, supporter
+asset, ceps, help, met, need, one, see, shp, spent, step, use, used
+charity, charter, example, status, trustee
+recommendation
+endowment, received, recipient, recommend, recommended
+arrangement, beneficiary, individual, more_detail

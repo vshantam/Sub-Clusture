@@ -1,0 +1,17 @@
+application, encryption, information
+cybersecurity, vulnerability
+ensure, record, secret, secure, server, stored
+assessment, environment, individual, requirement, unauthorized
+associated, attacker, hardware, network, password, signature, software, standard
+access, alert, also, asset, based, code, could, data, ids, key, level, need, nist, owasp, risk, system, third, trusted, use, used, user, using, web
+policy, practice, privacy, process, protect, provide, provides, service
+detection, intrusion, protection
+business, document, incident, include, including, internet
+address, attack, computer, device, domain, event, example, exploit, impact, party, patch, public, threat
+control, critical, personal, physical, protected, protocol
+cryptographic
+authentication, communication
+infrastructure
+identify, identity, integrity, security
+confidentiality
+compromise, malicious, mechanism, response, sensitive, specific, technical, technology

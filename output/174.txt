@@ -1,0 +1,17 @@
+basic, capital, cost, credit, data, hill, india, isbn, skill, unit
+strategic, strategy, student
+development, environment
+banking, learning, making, managing, marketing, meaning, planning, pricing, retailing, training
+advantage, behaviour, objective, overview, practical, principle, security, structure, technique
+classification, communication, organizational
+decision, design, edition, explain, function, written
+importance, kathmandu, knowledge, performance
+concept, consumer, control, economic, economics
+book, course, group, issue, job, law, market, mba, model, policy, problem, process, product, role, system, theory, type, various
+understanding
+characteristic
+accounting, application, definition, evaluation, information
+analysis, financial, industrial, management, managerial
+approach, business, new_delhi, reference, research, resource
+factor, feature, finance, lecture, method, nature, practice, service
+distribution, international, introduction, presentation

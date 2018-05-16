@@ -1,0 +1,21 @@
+fhlbank, fhlbanks, finance
+act, afs, also, class, fhfa, fhlb, fhlbs, gse, issue, loss, lra, mbs, mpf, ofheo, risk
+earnings, funding, holding, housing, mission
+institution, obligation, outstanding, portfolio
+enhancement, requirement
+congress, increase, increased, mortgage, purchase
+fannie_mae_and_freddie_mac
+chartered, guarantee, insurance, percentage
+activity, addition, associated, director, including, security
+advance, believe, benefit, billion, business, capital, eligible, federal, however, seattle, support
+member_institution
+program_manager
+amount, could, hold, join, loan, non, one, pfi, point, stock, total
+asset, change, charter, credit, manage, market, member, system, thrift
+commercial_bank
+based, end, held, meet, need, time, year
+undercapitalized
+established, membership, total_asset
+collateral, regulator, regulatory
+acquired, program, provide, provided, providing, required
+significantly

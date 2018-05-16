@@ -1,0 +1,13 @@
+belt, camp, coal, cobalt, cost, gold, hole, metal, rock, scale, total
+produced, producer
+burned, copper, diesel, however, nickel, number, refiner, silver, smelter
+area, baer, burn, cart, fedex, fire, fuel, gauge, mrf, ore, per, price, scrap, table, truck, use, value, year
+material, mineral, potential, severity, waybill
+end, high, imc, imt, iron, mine, mined, miner, mining, nps, pine, plan, plant, pound, pud, sand, site, thin, ton, tonne, zinc
+development, underground
+aluminum, crushing, equipment, platinum, thinning
+substitution
+exploration, extraction, operation, production, reclamation, separation
+commodity, geological, jewellery, processing, recycling, wilderness
+bullion, diamond, gallon, ground, zambia
+average, closure, estimate, ferrous, located, primary, resource, standard, surface

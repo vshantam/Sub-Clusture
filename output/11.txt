@@ -1,0 +1,19 @@
+bond, end, flow, long, money, month, one, point, used, using, yield
+increase, indexed, interest, investor
+duration, maturity, security, treasury
+interest_rate
+also, based, basis, bill, call, called, cash, fall, make, paid, par, pay, plus, value
+date, doe, due, fixed, free, note, price, rate, rise, risk, since, table, three, time, use
+amount, current, market, payment, present
+debt, first, method, period, short, term, two, year, zero
+issue, issued, issuer, spread
+deposit, discount, issuing
+callable, example, variable
+curve, feature, future
+calculated, following, liability, principal
+interest_rate_risk
+annual, coupon, equal, forward, income, nominal, usually
+outstanding
+difference, different, instrument, therefore
+yield_curve
+change, higher, however, linked, longer, lower

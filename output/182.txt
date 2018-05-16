@@ -1,0 +1,14 @@
+approach, available, parameter, portfolio, rabobank
+determine, generally, internal, regarding
+capture, change, default, ensure, example, exposure, include, measure, result
+associated, calculate, calculated, calculating
+able, also, ass, bank, based, data, least, make, market, model, part, take, three, time, var
+consider, described, estimate, expected, provided, required, specific
+appropriate, consistent, demonstrate, methodology
+account, across, agency, apply, factor, process, purpose
+addition, criterion, definition, facility, obligor, position, section, validation
+internal_model
+securitization
+credit, defined, either, given, however, period, provide, reflect, review, subject, system, using, whether
+could, day, due, ead, lgd, loss, meet, non, one, risk, set, two, use, used, well, year
+backtesting, determining, including, operational, supervisor, underlying

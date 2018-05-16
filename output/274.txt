@@ -1,0 +1,14 @@
+associate, available, classified, fair_value, financial, liability
+cost, flow, group, ifrs, loan, loss, non, plant, risk, tax, total, using
+amendment, difference, equipment, impairment, instrument, investment, management, statement
+amount, arising, benefit, entity, equity, period, profit
+accounted, continued, designated, determined, receivables, recognised, recognized, transferred
+financial_asset
+balance, current, expected, expense, payable, revenue
+financial_instrument, financial_statement
+impairment_loss, profit_or_loss
+accordance, carrying, contract, follows, goodwill, property, provision, thousand
+include, included, includes, including, income, incurred, interest
+asset, based, cash, date, due, ended, fair, held, ias, issued, lease, level, made, note, paid, rate, sale, share, used, value, year
+applied, impaired, measured, presented, received, related, required
+consolidated, derivative, obligation, subsidiary, transaction

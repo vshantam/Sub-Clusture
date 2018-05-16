@@ -1,0 +1,14 @@
+adjustment, considered, constituent, morningstar, volatility
+following, including, inclusion, indexing, underlying
+calculate, calculated, calculation
+cap, daily, data, date, day, dow, factor, month, nasdaq, total, year
+bloomberg, component, composite
+closing, equal, equity, event, period, return, sector, security, using, weight
+adjusted, measured, reflect, relevant, selected, standard, weighted
+financials, methodology, rebalancing
+added, based, basket, change, end, ftse, jones, level, market, msci, nyse, one, price, set, share, stock, sub, table, time, used, value, yield
+addition, available, eligible, exposure, published, universe
+determine, determined, reference, weighting
+average, formula, global, monthly, notional, product, russell
+aggregate, effective, percentage, performance, represents
+business, defined, dividend, included, index, indices, linked, minimum, number

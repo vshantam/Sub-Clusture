@@ -1,0 +1,13 @@
+also, asxs, cco, ccp, cea, cftc, day, dcm, dco, dcos, doe, fcm, fcms, fmi, fmis, fund, key, lch, loss, nfa, non, set, swap, two, well
+clearing_member
+margin_requirement
+addition, capital, clearing, contract, facility, initial, maintain, minimum, monitor, position, standard
+change, cleared, default, ensure, future, include, member, related, system
+authority, available, establish, financial, including, liquidity, principle
+account, exchange, procedure, product, required, requires, resource
+arrangement, participant, requirement, settlement
+commission, derivative, jurisdiction, obligation
+collateral, registered, regulation, regulator, regulatory
+initial_margin
+based, call, cash, clear, core, cover, daily, held, market, meet, order, part, risk, rule, see, take, trade
+margin, provide, provides, review, section, security, service, subject

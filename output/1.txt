@@ -1,0 +1,16 @@
+policyholder
+underwriting
+accident, actuary, capital, casualty, company, contract, solvency, surplus
+assumption, catastrophe
+reinsurance, reinsurer, reinsurers
+development, experience, individual, investment
+based, due, future, group, life, line, loss, non, one, risk, use, used
+actuarial, estimate, regulator, standard, statutory, surrender
+amount, ceded, cost, cover, event, excess, gross, level, limit, method, model, result, well
+expected, expense, exposure, reported, required, reserve
+include, increase, incurred, industry, insurance, insured, insurer
+insurance_company
+annuity, benefit, general, generally, property, reserving, severity
+also, change, charge, claim, earned, factor, force, large, market, naic, paid, rate, ratio, state, value, year
+captive, payment, period, policy, premium, pricing, product, provide, written
+analysis, business, including, liability

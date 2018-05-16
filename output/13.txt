@@ -1,0 +1,16 @@
+agricultural, agriculture
+dairy, demand, grain, plant, price, ranch, season, using
+drought, produce, produced, producer, product
+acre, also, area, cane, case, farm, large, maize, rice, table, time, type, value
+important, management, marketing, planting
+animal, annual, cattle, cotton, impact, input, rural, small, soil, total, wheat
+ethanol, organic, rainfall, strategy
+fertilizer
+based, due, feed, land, level, need, per, seed, use, used, year, yield
+processing, production
+average, disease, increase, purchase
+consumer, farmer, grower, however, income, number, source, soybean, supply, system, weather
+family, farming, harvest, market, quality, variety
+buy, corn, cost, crop, ddt, food, high, hog, low, one, usda
+consumption
+activity, available, commodity, industry, livestock

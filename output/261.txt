@@ -1,0 +1,17 @@
+issue, issued, issuer, linked, listed, scheme
+corporation, transaction
+arrangement, instrument, investment, requirement
+debt_security
+financial, following, including
+bank, bond, form, fund, held, hold, holder, long, non, one
+act, also, asset, case, day, debt, made, market, mean, paid, part, right, rule, set, shall, share, short, stock, sub, take, term, two, type, unit, used, value, whose
+authorised_person
+category, company, currency, exchange, interest, purpose, subject
+account, amount, include, payment
+accordance, authorised, calculated, classified, guaranteed, paragraph, specified
+defined, provided, required, traded, transfer, treated
+holding, position, relating, relevant, resident, trading
+institutional
+debenture, derivative, determined, registered, regulation, repurchase
+financial_instrument
+deposit, either, entity, equity, maturity, person, section, security

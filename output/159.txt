@@ -1,0 +1,13 @@
+criterion, decision, entity, person, relating, relation, section
+provision, supervision, supervisor, supervisory
+accordance, according, activity, authority, competent, concerning, following, including, necessary
+act, body, case, cbr, crr, doe, group, made, non, one, order, part, point, power, rule, scope, set, state, take, taken
+appropriate, considered, directive, directive_, financial, paragraph, particular, possible, principle, procedure
+competent_authority
+defined, referred, require, required, requires
+account, ensure, general, measure, regard, relevant, report, respect, subject, whether
+article, carried, however, provide, provided, purpose
+application, commission, condition, definition, information, institution, obligation, regulation, undertaking
+arrangement, assessment, established, member_state, requirement
+credit_institution
+also, annex, apply, basis, data, fund, law, least, legal, mean, shall, taking, well

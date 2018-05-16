@@ -1,0 +1,11 @@
+added, area, based, check, cross, ledger, master, newly, object, open, order, used, value, view
+account, business, component, contract, customer, document, payment, process, product, relevant, request, support
+more_information
+authorization
+application, information, production, transaction
+accounting, customizing, following, invoicing, processing
+also, app, apps, att, cash, com, crm, data, dms, erp, flow, hana, help, http, item, kpi, make, och, one, plan, run, sale, sap, see, tax, type, use
+available, financial, hierarchy, management
+billing, existing, function, posting, reporting, setting
+activity, invoice, material, overview, provides, required, service, specific, warehouse, workflow
+assign, change, create, created, define, detail, display, enables, feature, finance, manage, payable, related, system, update, using

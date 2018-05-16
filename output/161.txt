@@ -1,0 +1,16 @@
+default, dispute, emirate, provides, security, service, website
+bureau, floor, north, refer, report, street, tower
+box, com, dfm, gov, road, room, tel
+ministry, statistic, statistical
+drive, free, guide, house, issue, office, phone, price, rue, source, square, suite, trade, voice
+environment, information, projection, washington
+building, business, helpline, including
+block, dhabi, dubai, email, local, place, plaza, please
+abu_dhabi, boulevard, geography, telephone
+bin, info, inst, line, link, list, main, zone
+abu, aed, also, ask, call, data, east, fax, gate, mail, park, str, uae
+address, agency, avenue, branch, centre, contact, finance, policy, product
+independence, international
+working_hour
+election, general, national, personal, regional
+available, financial, language, unavailable

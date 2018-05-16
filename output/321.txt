@@ -1,0 +1,18 @@
+export, import, report, result
+added, edit, enter, field, file, guide, item, link, list, menu, one, open, using, view
+display, displayed, template
+add, data, name, note, page, role, rule, save, tab, table, task, type, value, want
+change, chapter, choose, create, oracle
+application, information
+attribute, available
+action, button, custom, option
+define, defined, delete, filter, select, update
+also, box, form, group, icon, show, top
+schedule, section, selected, setting, specific, specify
+access, check, click, query
+based, need, see, set, step, use, used, user
+clicking, contains, creating, dimension, following, selecting
+automatically
+allows, column, folder, follow, window
+created, default, detail, example, feature, search, status
+document, provides

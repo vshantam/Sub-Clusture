@@ -1,0 +1,16 @@
+corporation
+deductible, deduction, exemption
+amount, credit, effect, income, payment, profit, result, source, subject
+benefit, exempt, expense, general, however, receipt, received, reduce, resident, respect, revenue
+also, apply, asset, basis, claim, equal, gross, gst, law, loss, non, pay
+business, dividend, incurred, interest, property, treatment
+based, case, change, date, doe, gain, held, made, net, one, paid, rate, rule, sale, share, state, tax, taxed, use, used, year
+qualifying
+capital_gain
+activity, available, corporate, eligible, generally, personal, qualified
+effective, incentive, investment
+allowed, applies, capital, carried, example, purpose, qualify, taxable, taxation, taxpayer
+considered, expenditure, individual, tax_credit
+certain, method, period, return, section, whether
+attributable
+claimed, related, relief, treated

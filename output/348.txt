@@ -1,0 +1,18 @@
+bailout, bailouts, banking, billion, capital, trillion
+systemic_risk, systemically
+regulation, regulator, regulatory
+financial_crisis, financial_firm, financial_system
+aigs, also, big, cds, could, covar, crisis, dodd, focus, global, loss, one, risk, run, sifis
+aig, among, bank, fail, fed, frank, imf, large, market, panel, paper, pre, taking, tarp, term, time, value
+federal_reserve
+interconnectedness
+financial_institution
+example, exposure, failure, federal, figure, largest, lehman, leverage, measure, network, provide, report, rescue, result
+individual, institution, supervision
+investment_bank
+collapse, complex, distress, guarantee, insurance, spillover, taxpayer
+counterparties, interconnected, vulnerability
+asset, equity, event, sector, shadow, sheet, shock, short, size, stress, system
+liability, liquidity, stability
+commercial, complexity, contagion, financial, identify, important, potential, systemic
+financial_stability

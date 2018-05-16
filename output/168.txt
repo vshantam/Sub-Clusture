@@ -1,0 +1,14 @@
+assembly, available, compiler, example, language, variable
+memory, method, option, output, return, section
+also, based, call, called, case, class, data, range, value
+algorithm, microchip, processor, technology
+address, argument, process, request, required, result, sequence, support
+evaluation, execution, function, operation, simulation, specified
+application, information, instruction, optimization
+bit, inc, input, int, list, point, set, two, using
+defined, device, figure, level, message, module, object, source, space, string
+code, doe, end, file, form, line, name, one, see, since, size, time, type, use, used, user, work
+implementation
+driver, either, error, however, linker, number, order, pointer, system
+allows, block, command, format, global, library, program, symbol
+character, interface, parameter

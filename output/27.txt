@@ -1,0 +1,15 @@
+american, exercise, exercised
+buying, hedging, position, premium, pricing, selling, trading
+arbitrage, derivative, expiration, underlying, volatility
+option_price, stock_price, strike_price
+buy, call, day, fall, paid, pay, per, put, two
+also, asset, black, cash, close, cost, long, loss, money, one, risk, spot, stock
+future_contract
+call_option, portfolio, put_option
+dividend, example, expiry, forward, implied
+delta, equal, gamma, hedge, mean, right, sell, used, vega, zero
+contract, european, increase, interest, investor, maturity, strategy, therefore
+month, option, point, price, profit, using
+called, either, higher, holder, index, lower, scholes
+change, future, market, remove, share, short, spread, strike, three, traded
+case, date, give, make, move, rate, take, time, use, value

@@ -1,0 +1,15 @@
+company_act
+equity, meeting, office, payable, period, person, public, required, respect, section, service, subject
+act, bank, board, case, date, dated, due, issue, made, march, name, one, rule, set, shall, share, term, time, year
+also, bid, day, held, ind, india, month, nil, non, paid, per, sebi, tax, upon
+appointed, dividend, limited, promoter, provided
+applicable, application, approximately
+financial, particular, shareholder, subsidiary
+annexure, approval, business, catering, director, employee, industry, interest, otherwise
+equity_share
+accordance, allotment, including, statement
+detail, ended, entered, except, general, given, however, issued, member, offer, order, refer, stated
+account, amount, company, pursuant
+mentioned, prescribed, received, registered, specified
+board_of_director
+prospectus, provision, regulation, resolution, respectively

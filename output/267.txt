@@ -1,0 +1,17 @@
+probability
+even, event, figure, first, given, hence, high, higher, level, model, paper, since, spread, using
+average, credit, default, equity, present, quality, result
+analysis, approach, corporate, economic, increase, portfolio, variable
+defaulted, different, example, expected, exposure, observed
+probability_of_default
+macroeconomic
+default_probability
+also, bond, lgd, lgds, loan, loss, low, lower, moody, non, show, two, well
+recovery_rate
+factor, merton, period, section, sector, senior
+bank, data, deal, debt, fact, large, rate, rating, ratio, small, state, table, value, year
+asset, based, case, due, one, risk, smes, time, use, used
+assumption, correlation, credit_risk, distribution, information
+estimate, estimated, structure
+category, framework, however, industry, intensity, modeling, obligors, recovery, therefore
+default_rate

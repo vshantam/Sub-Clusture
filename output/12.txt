@@ -1,0 +1,18 @@
+amount, asset, assets, market, sheet, short
+available, excluding, financial, liability, provision
+benefit, capital, credit, deposit, equity, profit, property, report, security
+business, dividend, million, weighted
+advance, balance, exchange, payable
+adjustment, equipment, impairment, investment, statement
+change, charge, income, share, value
+cash, fair, gain, march, paid, ratio, tax
+currency, decrease, increase, insurance, interest
+debt, due, end, ended, fee, fixed, held, item, net, note, per, rate, sale, term, year
+depreciation
+average, deferred, expense, related, reserve, return, revenue, service
+attributable, receivables
+derivative, operating, operation
+bank, bond, cost, flow, fund, gross, group, loan, long, loss, month, non, total
+consolidated
+bearing, current, earnings, margin, period, trading
+outstanding

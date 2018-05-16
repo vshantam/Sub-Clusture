@@ -1,0 +1,15 @@
+common, company, company_
+capital, costco, ebitda, factor, growth, limited, method, opinion, provide, public, related, subject
+analysis, available, financial, following, generally, including, potential, subsidiary
+shareholder
+also, asset, based, basis, case, cash, issue, listed, owned, sale, share, used, value
+competitor, corporate, operating, operation, ownership, valuation
+acquisition, consideration, corporation, information, transaction
+able, com, date, doe, due, make, often, one, price, sell, stock, term, time, two, well, year
+acquired, business, earnings, employee, multiple, publicly, specific, usually
+public_company
+company_ability
+agreement, investment, management, statement
+analyst, include, increase, industry, interest
+belief, current, future, general, however, level, market, merger, number, order, report, result, revenue, three
+many_company, most_company, other_company

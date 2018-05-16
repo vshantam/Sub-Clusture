@@ -1,0 +1,13 @@
+commercial, financial, industrial, market_value, residential
+capital, income, lasalle, leasing, mortgage, ncreif, office, personal, provide, report, service, specific
+available, comparable, generally, typically
+characteristic, classification, property_owner
+apartment, appraisal, appraised, appraiser, purchaser
+real_property
+acquisition, construction, information, professional, transaction
+analysis, assessed, assessor, building, standard, valuation
+considered, location, occupied, occupier, property
+commercial_property, personal_property, residential_property
+also, area, asset, based, basis, data, estate, fall, land, lease, located, market, price, range, rate, real, rent, rental, rural, sale, space, square, tenant, three, vacant, value, valued, valuer
+assessment, developer, development, different, improvement, investment, real_estate
+cmbs, cre, doe, due, hotel, house, non, one, owned, owner, sold, time, two, type, use, used

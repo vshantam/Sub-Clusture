@@ -1,0 +1,22 @@
+individual
+cohort, could, korea, korean, kospi, local, moral, total, young
+basic, first, hire, hired, kind, older, one, rate, size, state, time, type
+activity, position, satisfy
+engage, greater, hazard, island, period, reach, repeat, reward, steady
+responsibility
+different, investment, new_agent
+act, agent, eac, ene, ept, every, fact, nce, net, next, per, rent, tend, term
+appropriately
+dynamic, financial, following, managing
+financial_agent
+supervising
+relationship
+domestic, expected, invested, investor
+satisfied, satisfies, supervise
+averse_agent
+foreign_ownership
+stabilization
+consider, divided, economy, example, implies, promise, required, transfer
+also, cob, day, grow, hold, long, old, show, sum, whose
+_level, banker, career, future, hidden, number, unique
+acting, action, agency, hiring, paying

@@ -1,0 +1,19 @@
+authorization, information, organization, organizational, sanitization
+information_system
+change, employ, examine, example, exchange, response
+assigned, defined, defines, related, required, service
+associated, authorized, designated, facilitate, standard
+responsibility, security_plan
+action, control, function, mission, nation, operation
+document, documented, element, implement
+implementation
+other_organization
+acquirer, include, included, includes, including, intended
+activity, explicitly, individual, official, specific, training, typically
+address, formal, personnel, procedure, process, provides, purpose
+establish, established, establishes, establishing
+based, every, five, list, medium, need, needed, non, oit, plan, policy, role, system, three, tsa, type, use, used, wide
+assignment, component, consistent, contingency, controlled, requirement
+federal_government
+addressing, describes, determine, develops, directive, identifies, mechanism, necessary, reference
+accordance, integrator, maintenance, relationship

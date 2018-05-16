@@ -1,0 +1,19 @@
+federal_reserve_act, federal_reserve_bank
+depository_institution
+reserve_requirement
+additional, borrowing, branching, circulation, liability
+discount_window
+federal_reserve_system
+requirement
+federal_reserve_bank_of_new_york
+congressional
+central, congress, federal, seasonal, section, setting
+associated, generally, overnight, percentage, secondary
+excess_reserve, federal_reserve, federalreserve
+available, eligible, extended, required, wheelock
+average, averaged, balance, greater, however, increase, pattern, primary, private, relative, reserve, senate
+discount, maximum, window, without
+could, end, held, hold, ior, longer, lower, money, month, note, one, open, panic, point, set, swing, use, used, york
+amount, borrow, credit, demand, effect, equal, excess, first, higher, likely, limit, might, period, public, result, system
+cash_reserve
+also, back, call, large, level, make, pass, size, small, state, table, take, time, vault, year

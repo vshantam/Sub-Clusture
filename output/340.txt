@@ -1,0 +1,16 @@
+also, annex, apply, asset, based, case, charge, claim, include, issued, market, pillar, table, total, value
+approach, collateral, guarantee, paragraph
+calculate, calculated
+bank, book, ccf, due, ead, irb, item, lgd, long, meet, non, one, part, point, risk, set, short, sme, use, used, year
+counterparty, standardised
+securitisation
+amount, capital, credit, default, equity, maturity, method, section, secured, subject, weight
+applied, assigned, covered, defined, eligible, exposure, included, internal, provided, purpose, referred, required, treated, weighted
+accordance, according, commodity, following, including, underlying
+assessment, instrument, requirement, risk_weight
+standardised_approach
+capital_requirement
+arising, banking, netting, rating, using
+associated, determined, recognised, specific, specified
+calculating, calculation
+derivative, institution, position, protection, sovereign, transaction

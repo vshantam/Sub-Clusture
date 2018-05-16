@@ -1,0 +1,18 @@
+bankrupt, bankruptcy
+liquidation, liquidator, obligation
+restructuring
+action, certain, motion, petition, section
+agreement, contingent, covenant, insolvency, insolvent
+amount, avoid, court, credit, default, extent, filing, might, payment, right, without
+indebtedness
+chapter, creditor, debtor, however, lender, relief, secured, trigger, trustee, whether
+business, distress, distressed, interest
+code, could, doe, due, even, good, holder, lien, one, order, owed, post, power, pre, upon
+bankruptcy_court
+collateral, financial, financing, judicial, liability
+administration, administrator, reorganization
+also, asset, bankr, case, claim, debt, estate, full, law, legal, party, pay, plan, sale, stay, take, term, value
+continue, possible, priority, procedure, process, provides
+proceeding, protection, provision, situation
+letter_of_credit
+bondholder, compromise, necessary, therefore, unsecured

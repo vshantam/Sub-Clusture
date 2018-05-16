@@ -1,0 +1,15 @@
+centre, concept, norway, output, person, price, product, sector, service, social, source, zhuhai
+code, dnb, doe, good, link, mol, net, nok, non, note, oslo, pct, port, zone
+guangdong, guangzhou, paragraph
+manufacturing
+affected, domestic, dongguan, foreign, household, industry, norwegian, section, statistic
+actual, capital, general, national, saving, variable
+collective, definition, formation, industrial, population, production
+construction, consumption, contribution
+excluding, include, included, includes, including
+added, also, based, fixed, gross, macao, river, time, used, value
+classification
+asa, delta, equal, esa, final, full, oecd, part, pearl, per, rev, see, tax, total, well, year
+building, cylinder, economy, received, resident, revision, shenzhen, subsidy
+employed, employee, employment
+agriculture, distinguish, expenditure

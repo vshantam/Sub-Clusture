@@ -1,0 +1,15 @@
+data, help, htm, html, http, https
+aba, asp, blog, cfm, cgi, com, docs, doi, gov, law, org, php, post, spam, top, url, via
+contact, content, founded, internet, twitter
+report, reports, uploads
+information, publication, publications
+library, research, resources
+files, ideas, offer, pages, paper, papers, press, pubs, sites, tweet
+article, articles, business, services
+amazon, default, media, medium, online, reading, review, service, social, website
+also, aspx, find, index, info, issn, link, list, news, nsf
+edu, free, net, see, site, use, user, web
+email, europa, google, guide, march, portal, posted, public, source, topic, world
+accessed, download, facebook, national
+available, documents, retrieved, washington, wikipedia
+more_information

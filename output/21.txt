@@ -1,0 +1,12 @@
+represent, represents
+confidential, outstanding
+asset, current, income, market, month, parent, price, prior, ratio, segment, share
+annual, average, common, company, earnings, footnote, standard, template, thomson
+auditor, equity, fiscal, growth, interim, pension, product, reported, reserve, return, security
+adrs, also, avg, bank, book, cash, close, code, data, date, dps, flow, gaap, gross, high, issue, last, lcb, list, long, low, nace, non, sale, tax, total, unit, value
+capitalization
+dividend, included, includes, industry
+available, financial, generally, geographic, healthcare, indicator, insurance, operating, preferred, restricted
+current_price, extraordinary, supplementary
+amortization, definition, depreciation, description, information
+debt, eps, field, item, net, per, pre, stock, term, type, used, week, year, yield

@@ -1,0 +1,17 @@
+securitisation, securitization, securitizations
+obligation, originated, originator, retention, transaction
+securitized, structure, structured, transferred
+finance, issuance, standard, tranche, transfer
+collateral, credit_risk, enhancement, financing, including, underlying
+backed_security
+agency, conduit, credit, entity, investor, quality, rating, retain, security, senior
+abcp, abs, also, cash, cmbs, could, due, first, flow, form, loan, loss, note, one, part, party, pool, risk, sell, sold, spe, spv, spvs, term, third, used, well
+available, generally, principal, receivables, synthetic, typically
+collateralized
+ensure, issue, issued, issuer, issuing, seller
+securitization_transaction
+issuing_entity, rating_agency
+amount, asset, backed, market, meet, payment, rated, sheet
+example, include, mortgage, provide, purchase, purpose, sponsor, vehicle
+credit_rating_agency
+interest, provided, recourse, required, retained, servicer

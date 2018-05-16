@@ -1,0 +1,18 @@
+bean, eat, fat, fruit, meat, raw, sweet, tea
+beverage, category, vegetable
+including, ingredient, packaging
+cereal, cheese, cherry, except, served
+formula, poultry, product, reduced
+blend, brand, bread, cream, dried, free, fresh, ready
+consumer, cooking, serving
+package, packaged, prepared
+bottled, canned, coffee, cooked, frozen
+chip, drink, egg, fish, ice, ins, milk, nut, oil, pie, rice, wic
+preparation
+apple, butter, jelly, juice, ounce, shelf, single, store, whole
+bakery, based, cake, dairy, flavor, label, market, pasta, salad, water
+concentrate, potentially, substitute
+cocoa, flour, food, hot, low, non, note, one, soda, sold, sugar
+consumption, nutritional
+carbonated, chocolate, processed
+animal, citrus, enzyme, infant, natural, potato, vitamin

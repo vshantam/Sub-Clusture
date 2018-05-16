@@ -1,0 +1,15 @@
+business, example, expense, payment, penalty, personal, purpose, schedule, spouse
+credit, federal, method, person, refund, report, return, treated
+corporation, information, instruction
+receive, received, reported, required
+code, doe, enter, file, filed, line, made, name, need, note, one, rule, see, self, use, used
+attachment, considered, worksheet
+aarp, also, apply, attach, check, claim, help, make, paid, part, pay, state, tax, year
+amount, ending, filing, using
+box, cost, form, gov, gross, irs, loss, show, ssa, total
+determine, generally, reporting
+deduction, directly, election, section
+complete, eligible, employer, property, taxpayer
+allowance, applicable, individual
+include, included, includes, including, interest
+earned, entered, however, income, listed, number, subject, unless, whether

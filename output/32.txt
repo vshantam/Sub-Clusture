@@ -1,0 +1,17 @@
+fatality, public, roadside, roadway, tractor, traffic, transit
+bridge, drive, driver, parole, trailer, travel
+corridor, criminal, crossing, driving, moving, parking
+location, probation, violation
+distance, highway, license, offense, outside, shoulder, vehicle
+transportation
+collision, commercial, condition, congestion, conviction, pedestrian
+safety, scene, see, signal, speed, street, wheel
+accident, incident, residence, student
+bus, cdl, crash, day, death, delay, law, light, mph, place, ramp, truck, year
+enforcement
+following, involved, involving
+aggravated, dangerous, emergency, unlawful
+intersection, jurisdiction
+cause, crime, lane, police, safe, sign, state, time, tire, turn, use
+also, dot, foot, front, hour, motor, non, road, route, slow, stop, zone
+arrest, felony, injury, minor, person, related, report

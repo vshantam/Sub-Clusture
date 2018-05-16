@@ -1,0 +1,18 @@
+monetary_policy
+actual, figure, forward, future, measure
+macroeconomic
+announced, economic, economy, inflation
+real_interest_rate, term_interest_rate
+expectation, forecaster, forecasting, uncertainty
+current, march, market, policy, quarter, survey, target, three
+ahead, also, day, early, fed, gdp, lag, level, lower, near, next, period, real, short, term, time, tips, trend, week, year, yield, zero
+inflation_rate, interest_rate
+announcement, central_bank, unemployment
+basis, change, curve, late, longer, price, range, rate, rise, rule, since
+forecast, interest, purchase, quarterly, surprise
+central, easing, horizon, ination, looking, meeting, monetary, movement, nominal
+federal_fund_rate
+nominal_interest_rate
+federal_reserve
+expected, federal, recession, release, released, response, treasury
+around, bill, bond, cpi, fomc, fund, long, money, month, move, one, point, run

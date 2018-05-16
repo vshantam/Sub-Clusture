@@ -1,0 +1,17 @@
+convention, month_libor, transaction
+counterparties, counterparty
+interest_rate_swap
+fixing, floating, hedging, period, using
+also, basis, cost, cross, end, fra, fras, irs, leg, net, ois, one, risk, set, side, swap, time, two, used, year
+entered, entering, enters, interest
+notional_amount
+notional, position, swaption, swaptions
+borrowing, derivative, following, underlying
+actual, amount, contract, month, payment, point
+credit, curve, enter, fixed, future, hedge, libor, market, quoted, reset, spread, start, tenor, term, three
+act, based, cap, case, date, day, made, make, party, pay, payer, rate, use, value
+floating_rate
+agreement, calculated, currency, determined, fixed_rate, instrument, overnight, quarterly, reference
+receive, receiver, receives
+euribor, example, exchange, exposure, forward, vanilla, variable
+reference_rate

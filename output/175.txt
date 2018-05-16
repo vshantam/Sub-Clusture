@@ -1,0 +1,17 @@
+money_market_fund
+liquidity, maturity, required, section, security
+investment, redemption, requirement
+foreign_banking_organization
+mfp, might, mmf, mmfs, mmmfs, money
+shareholder
+also, asset, board, cash, cost, could, form, hour, impose, limit, loss, risk, short
+burden, demand, form_n, issuer, permit, redeem, reduce, report, request, require, result
+proposal, propose, proposed, proposing, provide, provided
+alternative, associated, information
+able, based, day, fee, fund, gate, make, nav, need, one, per, price, rule, run, term, time, use
+amendment, floating, guarantee, including, maintain, portfolio
+effect, event, expect, invest, likely, market, subject, support
+change, daily, example, share, stable, staff, stress, value
+discussed, estimate, include, increase, investor
+believe, holding, however, sponsor, whether
+approximately

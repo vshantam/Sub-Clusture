@@ -1,0 +1,19 @@
+downgrade, downgraded
+credit_rating, fitch_rating
+ability, analyst, belize, capacity, category, entity, highly, opinion, outlook, quality
+agency, assign, change, country, finance, rating, stable, strong
+negative, ratings, relative
+fitch, month, notch, watch
+coverage, upgrade, upgraded
+creditworthiness
+financial, following, including, likelihood, providing, receiving
+methodology
+also, bbb, bond, full, long, low, moody, poor, two
+assigned, expected, indicate, indicates, reflects, standard, strength, unsecured
+credit, direct, reflect, report, review, senior, short, support
+provide, provided, published
+assessment, available, favorable, typically
+based, given, issue, issued, issuer, placed, rated, scale, used
+aaa, ccc, debt, high, level, likely, meet, near, peer, term, view, weak
+condition, continued, criterion, obligation, potential, sovereign
+subordinated

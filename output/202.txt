@@ -1,0 +1,17 @@
+estimate, evidence, expected, increase, purchase, relative, standard, variable
+average, measure, measured
+difference, house_price, preference
+characteristic
+control, higher, however, whether
+aversion, decision, section, variation
+homeowner, household, ownership
+also, asset, data, find, high, mean, net, point, ratio, rent, risk, risky, sipp, unit, using, worth
+family, gamble, likely, sample, saving, taking
+consumption, expectation, regression
+age, area, change, large, market, paper, price, share, table, take, value, wave
+analysis, financial, individual
+doe, hold, house, level, low, lower, one, owner, scf, show, stock, time, two, year
+choice, income, since, single, survey
+across, demand, effect, median, rental, renter, report, result, wealth
+distribution, participation, risk_aversion
+housing, quality, willing

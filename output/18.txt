@@ -1,0 +1,16 @@
+change, charge, charged
+accept, account, amount, month, payment, refund, submit
+complete, contact, monthly, obtain, program
+fund, need, send, sent, sign, using
+provided, received, required, returned
+however, letter, number, please, signed, written
+access, address, business, purchase, transfer
+agreement, statement
+also, apply, bank, bill, call, cash, check, copy, day, mail, paid, pay
+following, including, processing, receiving
+additional, authorized, electronic, immediately, quickbooks, responsible
+application, information, instruction, transaction
+deposit, receipt, receive, record, request
+notice, notify, office, online, provide, service, verify, website
+available, eligible, signature, telephone
+agree, date, doe, due, fee, file, form, item, made, make, money, name, one, order, payee, time, upon, use, via

@@ -1,0 +1,15 @@
+bank, china, hong, kong, loan, month, non, one
+branch, capital, global, group, local, locally, macau, taiwan, total
+exchange, financial, mainland, shanghai, shenzhen
+asia, boc, day, due, gain, half, held, hkas, hkma, hsbc, jun, liu, net, pboc, prc, rest, risk, rmb, see, sep, six, tier
+account, credit, deposit, market, profit, ratio, result, return
+assessed, business, connected, customer, disposal, expressed, interest, reported, republic
+hong_kong, including, insurance, operating
+government, investment, management, movement
+asset, chinese, ended, issued, limited, listed
+arising, banking, beijing, holding, lending, renminbi, trading
+fair_value, first_half, significant
+advance, america, foreign, overdue, overseas, pacific, personal, province, security
+international
+incorporated
+commercial, corporate, designated, percentage

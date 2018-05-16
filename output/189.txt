@@ -1,0 +1,20 @@
+address, applies, business, charge, charged, creditor, equifax, example, federal, offered, purpose, whether
+provide, provided, provides
+financial_institution
+act, based, day, debt, doe, end, fee, file, ftc, law, made, make, offer, one, open, pre, take, time, use, used
+complaint, compliance
+account, collect, conduct, consumer, product
+dispute, finance, include, includes
+also, bureau, cfpb, cras, fair, fcra, part, right, scra, state, term
+administrator
+action, credit, making, notice, obtain, person, report, unfair
+agency, apply, payday, payment
+deceptive, determine, including, regarding, reporting
+addition, protection, providing, provision, violation
+consumer_reporting_agency
+advertising, application, information, institution, regulation, transaction
+servicemembers
+practice, receive, received, record, related, required, section, service
+more_information
+finance_charge
+furnishers

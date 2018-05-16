@@ -1,0 +1,18 @@
+expected, measured, require, required, requires
+also, asset, based, basis, gaap, ias, iasb, ifrs, issued, loss, make, might
+accounting, considered, recognise, recognised
+cecl, could, date, doe, flow, like, made, meet, model, need, non, oci, one, pwc, scope, see, use, used
+assessment, impairment, instrument, measurement, requirement
+determining, information, recognition, significant
+accordance, approach, appropriate, disclosure, financial, paragraph, principle
+financial_asset
+profit_or_loss
+ifrs_standard
+amount, change, credit, current, effect, either, entity, however, measure, period, present, reflect, result, unlike
+classification
+difference, different, objective, reference, relevant, reporting, therefore
+estimate, forward, guidance, similar, standard, whether, without
+consider, provide, provided, provides
+financial_instrument
+applied, applies, apply, applying, example
+include, included, including

@@ -1,0 +1,16 @@
+border, budget, letter, member, scheme, sistema, staff, status, survey, system, vista, whereby
+defaulter, deficit, director, discount, equity, interest, lending, minimum, mission, payment, service
+development, investment, management, repayment, statement
+bus, cross, group, grupo, plus, stock, surplus
+aos, coop, cost, dia, econ, fund, legal, line, loan, money, pool, unit, zona
+debt, fee, fixed, free, open, prey, rate, see, self, term
+audit, charge, clause, factor, labor, patron, ratio, shadow, value, window
+participation
+inflation, irrigation, predation, predator
+accounting, allowance, patronage, performance
+financial, marginal, nacional, principal, programa
+conversion, cooperative, enterprise, extension, ownership, supervision
+agribusiness
+capital, especial, social, special
+center, central, centro, control, credit, economy
+total_length

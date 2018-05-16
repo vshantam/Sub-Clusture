@@ -1,0 +1,16 @@
+deliver, delivered, delivery
+damage, package, packaged, pickup
+shipment, shipped, shipper, shipping
+destination, information
+documentation, international, transportation
+applicable, available, clearance, surcharge
+invoice, loading, option, origin, point, return, routing, weight
+address, excess, express, request
+additional, condition, consignee, dimension, location
+air, cat, claim, day, inch, load, pick, ship, tax, time, via
+container, handling, priority, quantity, standard, transit, transport
+based, billed, duty, good, item, per, rate, route, see, sender, ups, used
+attempt, custom, freight, import, manifest, material, maximum
+delivering, including, packaging, receiving, recipient, requiring
+accepted, limited, release, requested, returned, scheduled, selected, service
+apply, broker, carrier, charge, label, pallet, parcel, picked, postal, tariff, value, verbal

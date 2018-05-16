@@ -1,0 +1,13 @@
+opportunity_loss
+coverage_ratio, monetary_value, such_strategy
+action, amount, financ, manning, tuting, using, utility
+difference, different, discovering, incremental, watermark
+bernoulli, expanding, generality, including, scrambling, subramanian, summarizing, traded_bond
+also, arnold, based, bond, case, choose, dct, doe, event, fbt, first, foo, fsi, fsis, goto, hsu, iib, leif, level, loaf, made, manag, meet, one, pair, payoff, played, result, risk, smt, table, tem, time, two, type, use, used, value
+concerned, conserved, defective, expected, however, perfect, standard, structed, suppose
+decoder, decoding, defined, defines, demand, encoded, provide, repeat, seeker, stefano
+correlation_coefcient
+decision_maker, end_of_the_week, product_manager
+acquisition, activation, applicants, artificial, first_factor, individual, information, opportunity, overshadow, previous_one, probability
+coefficient_of_variation
+condition, function, inactive

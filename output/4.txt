@@ -1,0 +1,14 @@
+address, assembly, comment, cromwell, document, element, segment
+identification
+code, coded, date, dtm, frame, free, good, group, inner, item, label, level, lin, line, list, name, note, number, order, pce, per, piece, seg, time, type, unit, usage, use, used, value
+recommendation
+advice, example, message, package, packing, product, purpose
+conditional, description, information
+attribute, guideline, handling, packaging, receiving, shipping, specify, supplier, transport
+carton, march, pallet, part, party, period
+identified, identifying
+measurement, responsible
+aac, aad, asap, box, cps, gin, mark, nad, pac, pci, qty, rff, sub
+edition, function, identify, location, optional, position, quantity, version
+accepted, delivered, delivery, received, reference, required, sequence
+component, contained, container, qualifier

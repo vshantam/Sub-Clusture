@@ -1,0 +1,17 @@
+alternative, derivative, designated, determine, effective, separately
+entity, equity, hedging, option, period, section
+accounting, fair_value, financial, liability
+also, apply, cash, cost, could, flow, loss, sale, value
+presented, require, required, requires
+doe, fair, fixed, gain, ind, inr, item, non, one, order, price, risk, since, term, using
+hedge_accounting, hedging_strategy
+either, embedded, expected, hedge, hedged, highly, however, method, unhedged, whether
+commodity, component, considered, contract, currency, earnings, forward, interest, position, purchase, therefore, variable
+hedge_ratio, hedged_item
+difference, instrument, management, requirement, settlement
+hedging_instrument
+effectiveness, relationship, transaction
+change_in_fair_value
+derivative_instrument, financial_instrument
+affect, amount, asset, based, debt, meet, net, offset, rate, result, used
+change, example, exposure, manage, measure, measured, related

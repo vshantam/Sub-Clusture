@@ -1,0 +1,17 @@
+analyst, engineer, finance, manager, master, planner
+computer, director, inspector, operator, secretary, surveyor
+day, deo, dept, desk, head, health, leader, legal, rail, team, tech
+executive, specialist, supervisor, technician
+department, departmental, equipment, management
+attendant, facility, planning, surveying, training
+accounting, assistant, consultant, coordinator, industrial
+engineering, maintenance
+control, division, operation, position, relation
+assigned, employee, personal, personnel, principal, regional, telephone
+divisional, occupational, professional
+administration, administrative, administrator, transportation
+classification, communication, construction
+admin, audit, deputy, duty, safety, salary, senior, staff, supply, system, vacant
+representative, superintendent
+chief, civil, clerk, code, counsel, govt, hse, nurse, ops, unit, vice, work, worker
+general, mechanic, medical, office, officer, service, services, special, vehicle

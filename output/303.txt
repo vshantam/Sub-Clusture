@@ -1,0 +1,17 @@
+labeling, license, licensed, licensee, licensing
+certain, origin, permit, person, premise, public, purpose
+article, private, produced, product, purchase, subject, tobacco
+cigarette, employee, imported, importer, invoice, temporary
+advertising, certificate, distributor, merchandise, prohibited, united_state
+inspection, location, regulation, violation
+also, cbp, day, duty, form, good, gov, law, sign, sold
+chapter, custom, holder, issued, liquor, number, seller, whether, winery
+act, case, code, free, label, list, made, name, note, one, rule, sale, state, use, value, wine
+alcoholic, commercial, commission, container, wholesaler
+beer, entry, fee, item, per, sell, texas, used, year
+alcoholic_beverage
+alcohol, beverage, business, general, renewal, required
+enforcement, requirement
+manufacture, manufacturer
+application, consumption, importation, information
+administrative

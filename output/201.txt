@@ -1,0 +1,14 @@
+holder, issue, issued, issuer, trustee
+adversely, business, interest, investor, offered, offering, thereof, together, without
+pursuant, reference, relating, relevant, security
+certain, coupon, paying, period, person, prior
+condition, information, obligation, redemption, regulation
+following, including, luxembourg, provision
+act, apply, case, date, day, due, form, given, law, made, make, mean, non, note, offer, one, part, per, rate, set, shall, tax, term, time, upon
+described, determined, otherwise, provided, published, required, specified
+circular, guarantor, paragraph, principal, programme
+affect, agent, amount, cent, effect, event, except, payment, respect, result, subject, unless
+calculation_agent
+accordance, applicable, available, calculated
+noteholders, prospectus, registered, represented
+become, could, dealer, defined, either, notice, payable, purpose

@@ -1,0 +1,18 @@
+code, fee, non, none, note, one, owner, true, type
+accept, active, address, adjust, amount, break, client, comment
+minimum_wage
+change, easier, factor, latex, matter, minute, salary, table_, varies, worker
+illustration, information
+adjustment, advancement
+analysis, component, narrative, summarize
+wage_increase
+adj, also, bns, draw, eta, max, paid, pla, prob, rdp, sel, stats, tax, wtd, zip
+cut, digit, final, grant, ind, int, net, set, unit
+current_level
+face_value
+base, based, cash, date, false, name, rate, state, used, wage, wages
+elected, enabled, hidden, level, needed
+recommended
+balance, clemens, evidence, expense, increase, interest
+adjusted, disabled, received, replicate, required, selected, standard
+median, mention, minimum, modify, pending, policy, source

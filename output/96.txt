@@ -1,0 +1,13 @@
+imaging, outcome, patient, primary, subject, surgery, symptom, therapy, without
+compared, expected, performed, related, reported, treated
+analysis, diagnosis, diagnostic, dialysis, difference, discharge
+data, day, death, drug, event, heart, high, organ, pet, post, renal, result, risk, trial, year
+blood, cohort, follow, group, kidney, low, month, study, using
+included, increased, procedure, received
+cardiovascular, clinical_trial
+adverse, assessed, baseline, cancer, diabetes, disease, disorder, however, versus
+following, guideline, laboratory, mortality, protocol, treatment
+acute, age, based, case, dose, due, one, phase, pre, rate, site, stage, table, time, type, use, used
+additional, admission, indication, infection, medication, population
+cardiac, clinical, efficacy, hospital, medical, surgical, survival
+associated, considered, randomized, transplant

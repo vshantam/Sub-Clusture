@@ -1,0 +1,13 @@
+break, center, double, excess, model, number, order, period, process, profit, robert, second, spent, system
+activity, divided, division, realized, utilized
+percentage, performance
+anderson, marginal, operating, overhead, periodic, strategy
+abandoned, allocated, available, calculated, capacity, dedicated, forecasted, installed
+abc, also, cla, cost, ctr, day, dtr, epm, full, gpm, hour, let, past, per, pro, ron, shift, show, sigma, step, sum, tcs, total, two, unit, work
+effectively, historical, managerial, total_cost
+acquire, actual, average, central, charge, demand, machine, manage, manager, margin, measure, perform, resource, reusable, revenue, transfer, versus
+based, idle, lean, leone, level, line, long, one, rate, time, wide
+policy_and_procedure
+acquisition, production, productivity, utilization
+manufacturing
+operating_margin

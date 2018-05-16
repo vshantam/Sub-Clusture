@@ -1,0 +1,15 @@
+company, corning, holding, robinson
+development, equipment, industrial, investment
+aerospace, associate, healthcare, resource
+chongqing, controlled, financial, honeywell, proceeds
+capital, limited, mitsui, related, system, united
+manufacturing
+automobile, automotive
+acquisition, construction, corporation, international
+electric, industry, machinery, northrop, pacific, security, solution, sumitomo
+electronics, engineering, technology
+america, american, chemical, grumman, national, service
+auto, bba, bhd, bpi, china, coca, hsbc, inc, itau, jse, llc, ltd, mil, plc, sdn, ten, top, tpi, usa
+cathay, cola, corp, fortum, group, motor, nomura, power, royal, steel, tokyo, total
+ayala, bank, change, globe, health, japan, last, life, march, market, name, rank, share, shell, value
+bancorp, defense, dupont, energy, finance, general, lenovo

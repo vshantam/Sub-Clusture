@@ -1,0 +1,17 @@
+allocated, allocation, available, freshwater, regulator, wastewater, water_bill, water_use
+consumption
+company, england, helpful, highly, maintain, scarcity, southern, supply, utility
+based, blue, cited, however, inter, level, listed, moody, ncd, nine, one, owned, sold, used
+water_company, water_supply
+also, basin, bill, debt, defra, four, leak, ofwat, paid, part, pay, per, raw, sek, set, short, show, tool, use, using, water, year
+increase, increased, interest
+account, allowed, amount, drought, month, report
+considering, determining, restriction
+consumed, described, embedded, received, required, reservoir, sewerage
+average, charge, demand, leakage, person, secure, tariff, thames, three, valley, value
+water_consumption
+england_and_wale
+management, settlement, treatment
+credit_rating, privatization
+environmental_impact
+according, expansion, including, increasing, initially, regarding

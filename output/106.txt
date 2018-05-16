@@ -1,0 +1,17 @@
+investment
+shareholder
+analysis, business, decision, earnings, operating
+financial, financing
+calculate, calculated, calculation
+assume, could, dollar, equal, equity, figure, future, method, ratio, return, stock
+average, change, example, finance, greater, higher, however, manager, market, measure
+growth, payout, period, present, problem, profit, short
+cost_of_capital
+capital, company, constant, discount
+added, debt, even, need, net, npv, per, term, used, year
+also, asset, cost, firm, first, give, given, high, irr, paid, price, risk, since, using
+assumption, cash_flow, valuation
+current, dividend, expected, increase, interest, investor, leverage
+case, cash, make, one, pay, rate, share, take, tax, time, use, value
+structure, therefore
+doe, flow, long, low, lower, show, two

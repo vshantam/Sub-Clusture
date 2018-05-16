@@ -1,0 +1,15 @@
+american, california, carolina, columbia, illinois, louisiana, michigan, missouri, regional, virginia, wisconsin
+area, island, kansa, law, los, rate, san, santa, state, west, year
+commission, connecticut, mississippi, washington
+bill, city, code, five, hill, king, maine, miami, mile, one, use
+massachusetts
+department, montgomery, other_state, sacramento
+pennsylvania
+legislation, legislative, legislature
+florida, office, program, provide, provides, public, service
+alabama, arizona, arkansas, colorado, delaware, georgia, indiana, maryland, oklahoma
+austin, county, houston, located, location, oregon
+angeles, center, created, denver, federal, jersey, nevada, report, served, statute, system, three, valley
+approximately
+dakota, job, local, north, ohio, south, texas, total, utah, york
+authority, district, governor, kentucky, minnesota, new_york, statewide, tennessee

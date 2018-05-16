@@ -1,0 +1,15 @@
+balance, banking, funding, lending, managing, taking, trading
+across, assessed, business, process, product, profile, strategy
+credit_risk, individual, institution, market_risk, operational
+operational_risk
+asset, event, level, result, set, sheet, stress, used
+assessment, management, regulatory, requirement, significant
+also, fund, group, line, loan, loss, non, pillar, using, well
+adequacy, approach, committee, economic, financial, framework, monitored, monitoring, portfolio, reporting, scenario, specific
+activity, addition, appetite, liquidity, position, valuation
+analysis, include, includes, including, interest, internal
+concentration, counterparties, counterparty
+ass, bank, based, basis, due, key, manage, market, model, rate, risk, take, term, tier, var
+capital, credit, entity, equity, limit, ratio, testing
+liquidity_risk
+account, exposure, impact, measure, report, reported, support

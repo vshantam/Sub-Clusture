@@ -1,0 +1,17 @@
+transmission
+balancing, capacity, conflict, physical, quantity, supplier
+participant, participating
+interconnection
+flexibility, reliability
+independent, performance, requirement
+ahead, day, end, ferc, high, level, load, meet, need, net, peak, real
+commission, commitment, constraint
+ancillary, annualised, associated, imbalance
+change, charge, forward, hourly, minute, outage, output, posted, study, supply, voltage
+based, hour, month, node, non, offer, point, time, unit, zone
+also, bid, ftr, iso, pjm, pso, rto, rtos, tso, tsos, two, use
+market_participant
+benefit, england, network, penalty, renewal, resource, response, virtual
+address, dispatch, forecast, generator, operator
+auction, demand, design, ensure, entity, market, needed, payment, period, provide, reform, region, signal, system, tariff
+schedule, scheduled, scheduling, wholesale

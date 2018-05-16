@@ -1,0 +1,19 @@
+agency, amount, capital, common, covered, credit, entity, equity, greater, netting, ratio, report, section, subject, subpart, weight
+cet, due, item, meet, part, set, sheet, tier
+accordance, applicable, derivative, final_rule, financial, qualifying, subsidiary
+consolidated, counterparty, risk_weight
+associated, calculate, calculated, collateral, regulatory
+banking_organization
+adjustment, instrument, investment, requirement, treatment
+deducted, deduction, described, directly, reported, required, weighted
+asset, based, basel, buffer, equal, issued, master, phase, rule, table, total
+weighted_asset
+include, included, including, minimum, provided
+securitization_exposure
+ally, bank, doe, fully, fund, held, loss, non, pillar, plus, risk, row
+approach, balance, eligible, exposure, guarantee, holding, leverage, mortgage, threshold, trigger
+securitization
+additional, institution, transaction, transitional
+style_transaction
+common_equity_tier
+calculation_date

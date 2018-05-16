@@ -1,0 +1,16 @@
+banking_entity, market_making, trading_account
+proprietary_trading
+compliance_program
+term_price_movement
+benefitting, information, legislation
+commodity_future
+fehr, first, level, need, part, ready, report, result, risk, set, short, stand, term, total, well, year
+financial, following, including, realizing, sponsoring
+period, previous, private, process, provide, provided, service
+generated, recommends, referred, related, required, standard
+proprietary, term_resale, volcker_rule
+change, known, long, making, thing, titan, using
+account, activity, addition, available, business, rate_risk, without
+analysis, include, includes, increase
+current, example, however, limited, market, number, order, volcker
+also, based, call, case, cost, could, data, doe, due, given, issue, made, make, non, note, one, see, since, state, take, three, time, two, type, use, used, value

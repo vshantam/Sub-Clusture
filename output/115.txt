@@ -1,0 +1,19 @@
+processing
+credit, defined, entry, method, receipt, record, report, review, select
+category, company, display, journal, process, program, provides
+code, doe, due, fee, form, item, note, one, open, post, run, set, type, use, void
+address, customer, entered, include, invoice, number, offset, system, whether
+information, transaction
+based, create, creates, date, draft, enter, field, guide, leave, sale, update, usage, value, write
+assign, assigns, option, version
+also, bank, batch, bill, blank, match, paid, pay, want
+aging, might, print, using
+account, amount, discount, document, payment
+automatically
+deduction, determine, entering, statement
+understanding
+_table, apply, balance, change, example, table
+automatic
+generate, generates
+netting, printing, setting
+specific, specified, specify

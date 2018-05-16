@@ -1,0 +1,15 @@
+aer, also, apt, beta, book, data, debt, equal, fama, mean, note, rate, ratio, set, stock, term, two, well, year, zero
+capital, estimate, estimated
+approach, authority, free_rate, historical, portfolio, security
+determined, difference, different, dividend, therefore
+assumption, estimating, systematic
+asset, based, doe, first, five, free, given, high, higher, line, long, low, lower, model, one, point, price, risk, since, size, time, use, used, using, view, yield
+capm, market, range, sample, sharpe, table, three, value
+systematic_risk
+expected_return
+average, equity, factor, french, growth, however, method, period, premium, result, return
+calculated, comparable, considered, consistent
+cost_of_capital, cost_of_equity
+market_portfolio
+relationship, risk_premium
+adjusted, analysis, assumed, earnings, equation, expected, investor

@@ -1,0 +1,18 @@
+bidder, buyer, given, higher, number, offer, seller, single, tender
+increase, possible, purchase, purchased
+period, price, provide, reason, second
+allow, also, bid, buy, cost, could, doe, good, lower, post, sold, two
+consider, expected, however, offered, whether
+according, condition, inspection, potential, valuation
+buyer_and_seller
+competition, competitive, information, transaction
+otherwise, therefore
+difference, different
+price_change
+case, make, note, one, paper, place, pre, sale, since, take, three, time, type, use, value
+auction, example, quality, quantity, supply, usually
+day, deal, delay, demand, even, pay, sell, set
+accept, change, choose, first, highest, likely, lowest, market, result
+higher_price
+mechanism, particular, purchasing
+asking, bidding, buying, discount, pricing, selling, setting, willing

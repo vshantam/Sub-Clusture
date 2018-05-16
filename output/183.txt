@@ -1,0 +1,18 @@
+energy, federal, general, program, revenue, veteran
+agency, budget, bureau, direct, enacted, payment, public, request, support, system
+appropriation, transportation
+administration, administrative
+division, education, operation, protection
+funding, planning, prairie, training, transfer
+commission, commissioner, conservation
+assistance, initiative, legislation, legislative
+american, annual, council, meeting, nation, national, regional, session, special, tribal
+emergency, permanent, personnel, president
+outreach, research, resource, secretary
+act, award, bill, center, force, fte, fund, health, house, meet, safety, senate, staff, state, youth
+assist, citizen, housing, justice, juvenile, office, provide, service
+activity, authority, facility, military
+administered, agriculture
+commerce, committee, community, congress, economic, governor
+department, development, employment, management
+board, grant, joint, law, loan, plan, total

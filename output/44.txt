@@ -1,0 +1,21 @@
+credit_union, institution
+business, informal, interest
+borrow, formal, income, ncua, people, repay, rural, serve, small, source, study, union
+household
+among, amount, money, month, monthly, often
+account, credit, deposit, product, program, provide
+financial, financing
+moneylender
+repayment
+borrowing, providing
+available
+access, however, member, number, offer, others
+able, bank, cash, large, make, pay, rate, save, saver, size, take, three, time, type, way
+individual
+financial_institution
+finance, service, usually, village
+also, buy, debt, get, help, meet, need, term, use, used, well, year
+cost, could, form, found, fund, good, group, high, loan, low, lower, one, poor, two, work
+financially
+interest_rate
+demand, family, lending, making, payment, saving, working

@@ -1,0 +1,17 @@
+managed, manager
+difference, information, performance
+hedge_fund, investment, management
+addition, analysis, category, monthly, strategy, turnover, weighted
+fund_manager
+adjusted, fund_size, incentive, industry, investor
+characteristic
+significant, significantly
+ability, active, equity, family, holding, impact, mutual, period, result, timing
+information_ratio
+alpha, also, bias, find, first, fund, funds, high, month, point, risk, since, size, skill, small, stock, tail, using, well, year
+following, portfolio, reporting
+average, example, expense, exposure, increase, leverage, measure
+controlling, mutual_fund
+aum, doe, due, end, fee, flow, fof, low, lower, money, net, one, per, show, time, two, use
+better, factor, higher, however, level, number, return
+added, based, change, hedge, large, style, table, three, value

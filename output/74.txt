@@ -1,0 +1,14 @@
+charged, consider, either, however, received, subject, transfer, turnover, whether
+also, could, doe, end, esos, held, hold, issue, money, one, pool, see, sub, upon, year
+employee, example, expense, purpose, respect, service
+circumstance, exercisable, exercising
+entity, equity, granted, granting, option, period, vested, vesting
+client_money, compensation, outstanding, stock_option, transaction
+accordance, approach, appropriate, grant_date, paragraph, particular, shareholder, withdrawal
+allocated, associated, distributed, immediately
+account, amount, apply, event, grant, issued, might, payment, price, record, right, stock
+based, case, cash, cass, date, fair, made, make, paid, pay, plan, sars, share, take, value
+departure, described, determine, exercise, exercised, guideline, recipient, relevant, therefore
+exercise_price
+condition, following, situation, valuation
+number_of_share

@@ -1,0 +1,17 @@
+registered, registrant, regulatory, requirement
+prepared, provided, register, require, required, requires
+preparing, reporting
+registration, regulation_s
+annual, fiscal, general, include, material, summary
+deadline, exhibit, period, provide, public, quarter, related, release, report, section, separate, submit, submitted, website, whether
+file, filed, filer, filing, form_, item, letter, need, number, pfizer, prior, rule
+financial_statement
+amendment, company, current, currently, document, pursuant, quarterly, statement, supplement
+description, information, instruction
+act, also, change, data, date, day, edgar, form, han, made, month, note, part, sec, staff, stat, two, use, used, xbrl, year
+registration_statement
+reporting_period
+commission, publication, submission
+available, effective, electronic, identify, investor, narrative, reference
+electronically
+compliance, concerning, disclosure, financial, following, including

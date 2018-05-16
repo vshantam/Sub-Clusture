@@ -1,0 +1,15 @@
+equivalence, equivalency, equivalent
+impact, impute, imputed, include, related, untested, without
+cost, doe, due, fai, fee, ffo, iou, non, one, per, pfm, pre, sce, sdg, see, set, size, ten, two, use, used
+addition, attribute, definite, optimism, pessimism, time_low
+case_basis, demonstrates, information, same_period
+credit_rating_agency
+certain_size, optimistic, pessimistic
+continued, continues, plateaued
+classification
+available, financial, following, including, standard
+barometer, includes, provide, provided, provides
+based, case, first, made, make, rank, rate, share, three, time, value
+also, deal, full, last, lead, leaf, level, long, ppa, ppas, risk, term, total, well, year
+change, could, credit, current, forma, forming, however, manager, market, number, order, period, result, using
+homogenous_group

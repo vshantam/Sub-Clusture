@@ -1,0 +1,15 @@
+dec, feb, sek, sep, sept, sgd, six, swe
+calendar, contract, currency, european, japanese, maturity, million, product, quarterly
+amount, forward, monday, month, monthly, nordic, total
+bgn, bond, chf, cny, com, end, frn, fund, gbp, jan, jpy, jun, mxn, nok, non, nov, nzd, one, ron
+also, based, daily, future, group, level, march, market, value
+concluded, hereafter, increment
+linked, listed, quoted, signed, suisse
+according, following, portfolio
+luxembourg
+acc, apr, cad, cash, dac, day, mar, per, rate, via, year, zar
+aud, aug, brl, due, eur, euro, frf, full, jul, krw, note, oct, risk, rub, usd
+previous_quarter
+capital, dexia, equity, global, serial, series
+netherlands
+consequently

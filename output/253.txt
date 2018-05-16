@@ -1,0 +1,16 @@
+cloud_computing
+accept, based, doe, due, good, house, ict, item, meet, need, offer, one, order, party, renew, risk, state, store, third, time
+purchase_order
+able, access, allow, also, aws, best, buy, case, cost, csp, csps, iaa, paas, saas, sam, sla, use
+service_provider
+compliance, computing, consulting, including, outsourced, outsourcing
+addition, location, maintain, solution
+cloud_service
+department, identified, management, procurement
+benefit, perform, support, vending, vendor, vendors
+additional, information, opportunity
+consider, premise, premises, pricing, process, provide, provided, provider, provides, service
+amazon, change, cloud, ensure, include, managed, manager, portal, related, sample, storage, using
+new_vendor, other_vendor
+purchase, purchased, purchasing
+business, complete, contract, multiple, negotiate, practice, resource, software, specific

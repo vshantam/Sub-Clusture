@@ -1,0 +1,18 @@
+activity, directly, generally, industry, regarding, security, specific
+associated, available, conducted, custodian, fiduciary, financial, including, individual
+commission, information, professional, relationship, transaction
+advice, adviser, advisor, advisory, investor
+brokerage, product, provide, provided, provides, providing
+designed, however, include, practice, receive, received, record, related, report, research, result, service
+broker_or_dealer
+proprietary, registered, regulatory
+foreign_broker
+recommendation
+conflict_of_interest
+acting, capital, certain, maintain, mutual, obtain, plain, position, trading
+institutional
+arrangement, experience, investment, long_beach, management
+approximately, market_access
+broker, dealer, doe, fee, iiroc, make, need, offer, one, rule, side, trade, two, use
+access, also, asset, based, cash, lbi, party, risk, sipa, staff, well
+account, business, client, current, custody, example, market, offering

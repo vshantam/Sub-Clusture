@@ -1,0 +1,14 @@
+also, based, could, large, paper, range, sample, scale, table, tail, tailed, three, total, value
+operational_risk
+distribution, observation, operational, simulation
+estimate, estimated, estimating, estimation, estimator
+average, copula, example, extreme, figure, however, measure, method, normal, number, result
+considered, dependence, frequency, measurement, percentile
+density, quantile, scenario, section, severity, standard
+data, event, heavy, level, mean, risk, set, using, var, well, year
+conditional, historical, probability, statistical
+approach, capital, empirical, expected, external, internal, modeling, threshold
+risk_measure
+business, consider, follows, parameter, proposed, provide, provides, quantiles
+case, day, doe, due, even, given, high, line, loss, model, one, orx, see, show, two, type, use, used
+aggregate, calculate, calculated, discussed

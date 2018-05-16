@@ -1,0 +1,20 @@
+illiquid, liquidity, volatility
+consistent, difference, sovereign
+illiquidity
+implied, liquid, related, similar
+funding, holding, premium, pricing, trading
+ask_spread, cds_spread
+analysis, arbitrage, average, increase, investor, treasury
+maturity, relative, section, security
+arbitrageur
+change, curve, figure, first, given, higher, large, market, since, table, three, trade, volume
+ask, basis, bid, bps, cds, daily, day, high, low, mid, point, risk, two, using, vix, yield
+fundamental
+transaction
+mispricing
+liquidity_risk
+around, crisis, period, price, priced, spread, traded
+also, lead, level, paper, proxy, short, show, term, year, zero
+asset, bond, cost, data, due, lower, month, note, one, panel, quote, rate, time
+across, credit, factor, impact, measure, report, result
+credit_spread

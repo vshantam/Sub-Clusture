@@ -1,0 +1,17 @@
+cube, one, rule, see, set, use, used, user, using
+archive, available, character, database, example, statement, variable
+code, data, file, name, named, note, page, path, table, time, value, want
+published, specified, specifies
+more_information
+default, define, defined, required
+access, folder, manager, select, server, stored, target, tester, whether
+directory, expression, registered, repository
+argument, format, object, process, program, project, property
+import, input, might, output, report
+information, installation, intelligence
+data_source, performance, reference
+logging, publish, scoring, specify, version
+deploying, following, publishing
+chapter, create, created, creates
+add, also, bin, flow, macro, model, odbc, olap, run, sas, term, two, xml
+analytic, condition, contain, contains, creating, decision, location, metadata

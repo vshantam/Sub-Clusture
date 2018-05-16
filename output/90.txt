@@ -1,0 +1,17 @@
+air, also, area, car, cargo, fare, gear, part, per, seat, take, year
+carrier, engine, operate, repair, service, shuttle, station, terminal, vehicle
+transportation
+destination, regulation
+automobile, automotive
+commercial, dealership
+aviation, departure, operating, operation, operator
+auto, bus, cost, fly, fuel, hour, jet, line, mile, motor, one, route, time, two, use, used
+accident, aircraft, airline, airplane, airport, distance
+fleet, flight, freight, light, pilot
+brake, rack, rail, track, train, travel, trip, truck
+ground, railway, rental, runway, transit
+booking, flying, landing, mobility, parking, regional, steering, tourism, tourist
+check, diesel, leased, mileage, number, safety, system, ticket
+manufacturer
+traffic, transport, traveler, traveller
+including, industry, knowledge, passenger, scheduled

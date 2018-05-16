@@ -1,0 +1,18 @@
+condition, expansion, experience, loan_loss, performing, provision, recession, regulatory, reporting
+discretionary, nonperforming, provisioning
+average, change, charge, cycle, future, higher, income, stage, system
+countercyclical, procyclicality
+cyclical, dynamic, economic, looking, negative, realised, spanish, specific
+cyclicality, procyclical, statistical
+conservatism, conservative
+economic_downturn
+performing_loan
+loan_loss_reserve
+loan_loss_provision
+credit, current, general, growth, period, report, result
+financial_crisis
+accounting, associated, outsourcer, timeliness
+based, buffer, cover, even, level, lower, one, tier, time, used, year
+also, avoid, back, bail, banco, bank, brrd, built, could, early, espaa, gaap, llp, llps, loan, loss, npl, offs, past, pro, spain, tool, way, well
+regulatory_capital
+business, component, counter, coventry, downturn, increase, incurred, moreover, positive, severity, therefore, treatment

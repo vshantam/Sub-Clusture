@@ -1,0 +1,16 @@
+dcm, dcms, dir, icc, ird, mou, per, req, see, sef, sefs, two, yen
+cftc_staff, cme_group, commercial, continuing, following, immediately, structural
+assessment_period
+accountability, clearing_firm, electronically
+market_surveillance
+chicago, foremost, futures, history, payment, product, progress, sunlight, support, usually
+abusive_practice
+cease, cftc, cme, cmes, cmos, code, core, cycle, five, guide, occur, open, order, three, time
+analysis, balanced, calendar, executed, mechanism
+activity, deferred, envelope, industry, interest, interval, reversal
+commodity_contract
+cme_clearing, declaration, decoupling, equivalent, manipulation, regulation
+multiple_participant
+preceding, principle, principles
+change, earlier, future, globex, listed, matter, request, review, second, twelve, weather, weekly, whether
+also, base, bias, cftcs, flat, four, front, full, last, next, past, plus, tenet

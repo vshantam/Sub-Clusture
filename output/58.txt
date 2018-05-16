@@ -1,0 +1,16 @@
+barrier, current, process, trigger
+controller, monitoring
+capable, command, control, double, voltage
+digital, option, output, setting, signal, supply, switch
+alarm, cable, change, drive, fault, figure, manual, phase, range, relay, table, value
+extended, standard, terminal, waveform
+error, meter, method, motor, second, series, timer, travel
+domestic, function, position
+case, core, make, mode, model, one, power, side, time, type
+inversion, parameter, reference, threshold
+measurement, transformer
+circuit, display, maximum, minimum
+acta, data, high, iec, input, lift, limit, pin, point, size, start, tight, unit, via
+clock, cos, fdm, load, local, low, rpm, stop, two
+communication
+end, esd, fuse, led, level, perm, reset, self, set, speed, used

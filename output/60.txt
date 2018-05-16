@@ -1,0 +1,14 @@
+managed, manager, market, maximum
+responsible_entity
+applicable, available, blackrock, illiquid, publicly
+distribution, distributor
+diversification
+creation, designed, developed, exchange, formerly, industry, investor, leverage, security, strategic, therefore
+commentary, component, management, prospectus
+equity, europe, forward, future, however, include, ishares, product, provide, relief, scheme, share, short, traded
+including, investment, redemption, regarding, requirement, responsible, traded_fund, underlying
+authorized_participant
+comprehensive, creation_unit, traded_product
+act, also, arca, asset, based, basket, cash, daily, fund, hold, iosco, least, listed, march, pimco, price, risk, rule, track, trust, ucits, unit, value, world
+asset_manager, management_fee
+cds, cef, cis, day, etf, etp, etps, fee, meet, nav, net, non, one, open, order, see, seek, use, used, vix

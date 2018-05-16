@@ -1,0 +1,16 @@
+case, code, enter, file, line, name, non, note, one, range, sum, system, table, time, title, type
+call, data, date, day, match, start, status, total, update
+acct, blank, digit, first, flag, last, list
+duration, indicate, indicator
+character, parameter, submitted
+generated, percentage, reference, reporting
+description, information, interaction, transaction
+assigned, display, include, message, required, summary, updated
+account, amount, count, format
+change, event, field, group, level, number, please, queue, sample, unique, used, user, value
+associated, available, calculated
+specific, specified, specify
+defined, detail, entered, entry, length, method, period, record, report, second
+specification
+address, booking, comment, current, element, numeric, process, screen
+category, contains, external, interval, optional

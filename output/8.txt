@@ -1,0 +1,16 @@
+guarantee, guaranteed, transfer
+amount, cost, cover, debt, income, loan, made, net, non, note, owed, prior, trust
+due, fund, ibrd, ida, mdbs, miga, paid, par, part, sdr, sffas, svc, svcs, ussgl, via, year
+borrowing, financial, financing, including
+operation, pertaining, portfolio, portion, reporting, sovereign
+disbursed, disbursement, transferred, undisbursed
+derived, prepares, received, record, recorded, related, resource
+available, budgetary, describe, eligible, liability, previously, reestimate
+based, called, fiscal, issued, signed, table, upward, used, value
+agency, benefit, credit, current, entity, federal, general, infosys, interest, section, security, special, standard, subsidy, treasury
+loan_guarantee
+approved, program, provide, provided
+adjustment, agreement, commitment, development
+assumption, concessional, obligation, outstanding, transaction
+appropriation
+intragovernmental

@@ -1,0 +1,15 @@
+covered, decided, differs, divided, employed, included, measured
+board_of_director
+balance_sheet
+public_service
+adf, age, also, asw, ceo, den, dkk, dsb, eci, efg, fdr, fem, fsa, fsr, fut, good, ing, lars, lif, ltl, med, ried, rls, see, serf, sfo, til, used, well, year
+end_of_the_year
+distributed, introduced, requirement
+_group, aarhus, anders, annual, branch, danish, largest, parent, public, salary, target, thomas, towards, warrant
+according, parameter, programme, unchanged
+andersen, compared, comprise, consist, consists
+connection, copenhagen, foundation
+bearing, denmark, finally, meaning, pension, section, swedish
+amortisation, legislation, organisation, specification, verification
+based, cover, crown, found, gender, jensen, level, local, losses, ments, nised, nordea, poten, recog, since, split, sweden
+balance_sheet_item

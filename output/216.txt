@@ -1,0 +1,16 @@
+also, day, fha, four, loan, loss, month, non, one, ots, ratio, sold, wamu
+subcommittee, underwriter, underwriting
+closed, income, issued, lender, refer, related, report, review, seller, whether
+described, included, performed, provide, provided, received, required, secured, servicer
+appraisal, appraiser, borrower, mortgage, mortgaged, purchase, purchased, standard
+misrepresentation
+action, addition, section, selling, special
+foreclosure, freddie_mac, residential
+agency, closing, default, document, interest, investor, payment, property, request
+documentation, modification, mortgage_loan
+certificate, originated, origination, originator
+delinquency, delinquent, diligence, requirement
+determine, guideline, identified, including, regarding, security, servicers, servicing
+based, date, due, email, fee, file, first, lien, made, meet, prior, reo, sale, sell, state, third, used, value
+security_instrument
+special_servicer

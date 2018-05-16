@@ -1,0 +1,14 @@
+dbm, ghz, high, khz, ler, loss, low, mhz, mic, per, sub, two
+deviation, duration, generator, modulation, operating
+interference
+transmission, transmitted
+equipment, measurement, requirement, sensitivity
+antenna, channel, command, maximum, minimum, monitor, nominal, signal
+measure, measured, message, response, voltage
+activist, bandwidth, connector, document, spectrum, standard, strength, terminate, threshold, transmit
+carrier, center, decrease, device, greater, receive, receiver, setting
+apply, output, properly, purpose, source, supply
+doe, ling, link, need, noise, none, one, power, range, sound, time, tone, type
+arm, audio, band, cable, cause, fail, least, level, pass, radio, ratio, safe, sar, table, used
+accuracy, amplitude, depending, emphasis, frequency, impedance, increase, microphone, specified
+consideration, recommendation

@@ -1,0 +1,17 @@
+barrier, market, merger, merging, order, valeur
+commission, competing, competition, competitive, competitor, condition
+concentration
+area, aux, avec, base, case, dans, est, gain, mme, one, par, prix, que, rad, since, tre, une, view
+devise, second, social, sociale, source
+acquirer, compete, complex, concern, consider, mission, possible
+market_power
+carte, entry, final, first, inter, march, might, party, price, risque, rival, third, titre
+acquisition, deregulation, geographic, new_entrant, regulation, transaction
+effect, entrant, france, french, likely, product, remedy, risques
+complementarity
+could, loi, non, pour, qui, son, sont, sou, sub, sur, taux, tout, two
+antitrust, financier, increase, particular, purchaser
+acquiring, blocking, document, dominant, incumbent, industry, relevant
+competitive_condition
+barrier_to_entry
+market_share

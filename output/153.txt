@@ -1,0 +1,16 @@
+also, ann, best, data, eld, high, mean, set, show, shown, term, two, word, work
+fuzzy, graph, group, input, mining, output, simple, since, using, weight
+attribute, knowledge, structure, technique
+according, accuracy, algorithm, analysis, approach
+clustering, component, different
+database, distance, instance
+performance
+classification
+applied, however, problem, proposed, similar
+forecasting, prediction, predictive
+average, dataset, example, feature, figure, measure, method, network, neural, pattern, result
+application, classication, information, segmentation, statistical
+based, better, called, cluster, given, large, layer, level, number, order, pair, value
+decision, dimension, learning, selection, training
+case, model, node, one, rule, step, table, task, time, tree, type, use, used
+predict, present, presented, selected, threshold

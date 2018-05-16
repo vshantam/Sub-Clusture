@@ -1,0 +1,13 @@
+example, parameter, variable, variance
+also, draw, fit, log, non, plot, prior, run, set, show, step, term, test, two, zero
+error, factor, matrix, method, option, random, ratio, result, section, vector
+analysis, approach, following, standard, statistic
+chapter, figure, however, normal, number, output, sample, square
+choice, effect, given, level, linear, mean, model, order, point, shown, three, using
+correlation, distribution, information, likelihood, observation, regression, simulation
+based, case, curve, data, doe, one, see, size, table, time, use, used, value
+coefficient, independent, probability, statistical, uncertainty
+equation, estimate, estimated, estimation, estimator
+function, modeling, observed, posterior, residual, response, sampling, specify
+predicted, prediction, predictor, procedure
+component, difference, inference, interval

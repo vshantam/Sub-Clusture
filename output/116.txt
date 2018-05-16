@@ -1,0 +1,17 @@
+broker, figure, first, higher, highest, market, price, riding, ticket
+consumer, follower, however, longterm, monopoly, moreover, producer
+hence, lead, leader, level, lower, player, resale
+analysis, decision, finally, quality, subsidy, surplus, utility
+consequently, respectively
+primary_market
+forexample, resellers, shortterm, therefore
+arrival, average, estimate, example, increase, maximize, newyork, observe, primary
+also, anda, best, data, days, early, fact, high, nash, pay, rta, seat, thatis, toa, tra, years
+demand, depends, event, hedonic, resold, second, section, sutton
+additionally, background, basispoints, importantly, willingness
+andthe, indeed, inthe, months, ofthe
+case, cost, even, game, low, make, model, one, show, sold, table, tobe, two
+equilibrium
+allocation, inaddition, incontrast, transaction
+transaction_cost
+nash_equilibrium

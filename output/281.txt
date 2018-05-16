@@ -1,0 +1,14 @@
+program, provide, provided, provider
+hospital, medicaid, medical, medicare
+also, call, chip, cms, cost, day, hhs, hmo, long, mco, mcos, non, pay, pcp, plus, ppp, use
+beneficiary, eligibility, individual
+change, cover, covered, level, managed, member, pillar, primary, waiver
+coinsurance, demonstration, information, prescription, utilization
+available, described, eligible, facility, subindex
+enroll, enrolled, enrollee
+enrollment, outpatient, requirement, respondent
+benefit, coverage, describe, include, network, nursing, receive, required, section, service
+access, adult, amount, annual, claim, dental, health, payment, submit, supply, visit
+reimbursement
+area, based, care, drug, fee, make, meet, need, note, paid, part, per, plan, prior, rate, star, state
+capitation, complaint, condition, including, inpatient, physician, regulation

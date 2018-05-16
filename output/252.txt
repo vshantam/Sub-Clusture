@@ -1,0 +1,14 @@
+conditional, covariance, historical, portfolio, probability, stochastic, volatility
+approximation, distributed, distribution
+average, equal, error, factor, figure, matrix, measure, method, neutral, period, random, result, return, weight
+based, change, daily, garch, market, rate, sample, table, three, value
+deviation, equation, function, gaussian, section
+asset, first, given, linear, model, moment, order, price, risk, series, shown, since, time, using, yield
+assumption, correlation, estimation, simulation
+case, one, see, set, use, used
+also, day, jump, log, mean, non, show, term, two, var, well, zero
+constant, dynamic, implied, observed, obtained, standard
+approach, horizon, pricing, process, variance
+compute, example, forecast, formula, however, normal
+estimate, estimated
+different, expected, parameter, presented, therefore

@@ -1,0 +1,16 @@
+anti, bank, due, fincen, fraud, fund, legal, money, non, often, one, used, using
+authority, reporting, terrorism, terrorist
+financial, financing, including, involving, laundering, smuggling
+activity, entity, identified, identify, identity, sanction
+money_laundering
+associated, compliance, diligence, enforcement, individual
+financial_institution
+business, payment, subject, suspect, threat
+international, investigation, relationship, vulnerability
+bribery, customer, however, illegal, involved, number, offence, system, transfer, whether
+particularly
+group, measure, person, record, related, report, required, sector, verify
+corruption, information, jurisdiction, prosecution, regulation, suspicious, transaction
+criminal, profit, provide, provides, purpose, service
+act, also, aml, asset, based, case, cash, crime, fatf, high, law, made, make, party, risk, take, use
+account, conduct, conducted, control, country

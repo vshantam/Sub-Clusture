@@ -1,0 +1,18 @@
+activity, available, facility
+alcohol, campaign, location, promotion
+area, brand, break, free, item, meal, open, park, site, team, time, trip, week, year
+attend, center, event, every, first, guest, night, resort, sport, use, visit
+accommodation
+conference, equipment, experience, university
+child, club, coach, day, food, golf, group, hall, hotel, hour, local, month, offer, one, room, round, tour, woman
+destination, hospitality, information, restaurant
+attendee, volunteer
+athlete, leisure, resident, service, visitor, website
+place, plan, please, space, staff, travel
+booking, living, meeting, provide, scouting, tourism
+entertainment
+campus, conduct, contact, include, outdoor
+professional
+person, personal, program, sexual, special
+building, marketing, planning, training
+family, holiday, monday, office, policy

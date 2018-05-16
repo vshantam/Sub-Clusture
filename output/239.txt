@@ -1,0 +1,16 @@
+important, instrument, management, underlying
+credit_risk, institution, outstanding, protection, transaction, transparency
+asset, cash, cds, cost, end, issue, need, one, size, sold, use, used
+across, dealer, hedge, large, linked, major, make, manage, market, reduce, trade, traded, volume
+counterparties, counterparty
+market_participant
+activity, capital, issuance, notional, position, potential, trillion
+increase, increased, interest, investor, leveraged, reference
+credit, example, exposed, exposure, liquid, primary, product, provide, trading
+allow, also, become, bond, could, debt, highly, limit, ltcm, often, otc, risk, sell, short, since, swap, two, way, well
+deutsche_bank
+difficult, financial, liquidity, structure, typically
+derivative, regulator, regulatory, relatively
+concern, contract, counter, however
+billion, entity, hedging, security, selling
+participant, particularly

@@ -1,0 +1,14 @@
+adult, child, health, help, high, need, well, year
+individual
+information, intervention
+effort, people, person, reduce, report, result, support
+center, doctor, ensure, mental, older, related, system
+clinic, facility, family, healthy, patient, policy, public, quality, safety, visit
+alcohol, disease, disorder, illness, improve, include, increase, outcome, problem, program, resource, service
+available, disability, healthcare, substance
+provide, provider, provides
+abuse, access, age, also, area, based, care, data, life, nurse, risk, staff, state, time, use
+activity, including, medicine, national, practice, training, treatment
+community, condition, effective, medication, population, prevention
+clinical, hospital, medical, physical, physician, referral
+among, cost, drug, goal, group, long, month, one, plan, two, work, youth

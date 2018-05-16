@@ -1,0 +1,18 @@
+account, accounts, accrued, amount
+receivable, receivables
+collection, description, transaction, transactions
+withdrawal, withdrawn
+also, asset, bank, bill, book, cash, closed, cost, like, loss, paid, part, prior, sale, sold, use, value
+credited, debit, debited, deposited, period
+credit, excess, ledger, number, opening, others, reduce, refers, regular, system, title
+accumulated, adjustment, liability, maintained, transferred
+deposit, receipt, received, record, section, security, service
+advance, balance, expense, payable, payment, revenue, transfer
+current_account
+purchase, purchased
+closing, contra, control, current, general, income, monthly, normal, program, source
+withdrawal_request
+includes, incurred, interest, inventory, without
+new_account, other_account, such_account
+credit_balance
+bir, due, earned, end, entry, fund, held, net, non, opened, upon, used, year

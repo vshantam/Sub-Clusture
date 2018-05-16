@@ -1,0 +1,16 @@
+manufactur, manufactured, manufacturer, manufacturing
+also, buy, cost, doe, high, low, lower, mps, per, sell, set, show, sold, study, two, uct, unit, zero
+effect, format, grocery, margin, paint, price, product, profit
+analysis, category, consumer, increase, installed, manufac, purchase, warranty, whereas
+better, channel, charge, choose, figure, higher, however, insight, offer, shipped, single, smaller
+article, decides, retailer, selling, service, setting
+brand, case, level, make, manu, model, one, sale, site, stage, store, three, tured, value
+retail_price
+competition, coordination, practitioner
+built, demand, double, penalty, rent, resell, result, retail
+wholesale, wholesaler
+representative
+wholesale_price
+arrangement, department, different, retailing
+accounted, competing, coordinate, literature, structure, voluntary
+decision, production, provision

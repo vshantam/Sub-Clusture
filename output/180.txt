@@ -1,0 +1,19 @@
+activity, affiliate, affiliated, liability
+consolidated, intermediate, united_state
+addition, billion, condition, exemption, operation, section, section_, security
+bank_holding_company
+foreign_bank, member_bank, requirement
+organization, regulation, restriction, transaction
+federal_reserve
+act, also, asset, bank, board, could, doe, fhc, fhcs, forth, held, issued, make, mean, meet, one, owned, pose, set, state, time, used
+collateral, commenters, complexity, consistent
+depository, subsidiary, supervisory
+proposed_rule
+agency, apply, banking, bhc_act, branch, credit, directly, exempt, limit, parent, percent, subject, subpart
+engage, engaged, entity, example, include, nonbank, statute, unless
+holding_company
+final_rule, financial, generally, including
+extension_of_credit
+described, provide, provided, provides, purchase, purpose, required
+becomes, combined, company, conduct, control, covered, federal, foreign, holding, however, whether
+state_member_bank
